@@ -8,13 +8,10 @@
 import Foundation
 
 class RecentCounter {
-    
     var q = ArraySlice<Int>()
 
-    init() {
+    init() {}
 
-    }
-    
     func ping(_ t: Int) -> Int {
         while !q.isEmpty, q.first! < t - 3000 {
             q.removeFirst()

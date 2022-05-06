@@ -15,6 +15,7 @@
 		AF7E5FBE2824013B005D590F /* 36. 有效的数独.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */; };
 		AF7E5FC028240AE1005D590F /* 73. 矩阵置零.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */; };
 		AF7E5FC2282431B4005D590F /* 933. 最近的请求次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FC1282431B4005D590F /* 933. 最近的请求次数.swift */; };
+		AF7E5FE728253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FE628253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift */; };
 		AF9E14732813D8FA0091268D /* 208. 实现 Trie (前缀树).swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E14722813D8FA0091268D /* 208. 实现 Trie (前缀树).swift */; };
 		AF9E1475281424060091268D /* 684. 冗余连接.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E1474281424060091268D /* 684. 冗余连接.swift */; };
 		AF9E147728142DD00091268D /* 690. 员工的重要性 .swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9E147628142DD00091268D /* 690. 员工的重要性 .swift */; };
@@ -146,6 +147,7 @@
 		AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. 有效的数独.swift"; sourceTree = "<group>"; };
 		AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. 矩阵置零.swift"; sourceTree = "<group>"; };
 		AF7E5FC1282431B4005D590F /* 933. 最近的请求次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "933. 最近的请求次数.swift"; sourceTree = "<group>"; };
+		AF7E5FE628253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. 字符串中的第一个唯一字符.swift"; sourceTree = "<group>"; };
 		AF9E14722813D8FA0091268D /* 208. 实现 Trie (前缀树).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "208. 实现 Trie (前缀树).swift"; sourceTree = "<group>"; };
 		AF9E1474281424060091268D /* 684. 冗余连接.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "684. 冗余连接.swift"; sourceTree = "<group>"; };
 		AF9E147628142DD00091268D /* 690. 员工的重要性 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "690. 员工的重要性 .swift"; sourceTree = "<group>"; };
@@ -403,6 +405,7 @@
 				AF9E1571282366AF0091268D /* 713. 乘积小于 K 的子数组.swift */,
 				AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */,
 				AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */,
+				AF7E5FE628253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift */,
 				AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */,
 				AF7E5FC1282431B4005D590F /* 933. 最近的请求次数.swift */,
 			);
@@ -568,6 +571,7 @@
 				AFBF3678280C3AB100ED4EF8 /* 102. 二叉树的层序遍历.swift in Sources */,
 				AF9E14B3281AC0F50091268D /* 699. 掉落的方块.swift in Sources */,
 				AFBF35122802745B00ED4EF8 /* 804. 唯一摩尔斯密码词.swift in Sources */,
+				AF7E5FE728253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift in Sources */,
 				AFBF36B7280EE5B500ED4EF8 /* 295. 数据流的中位数.swift in Sources */,
 				AF9E156228223B8C0091268D /* 1823. 找出游戏的获胜者.swift in Sources */,
 				AFBF36622809B04600ED4EF8 /* 385. 迷你语法分析器.swift in Sources */,
