@@ -20,6 +20,9 @@
 		AF787723282773E600EC3890 /* 203. 移除链表元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF787722282773E600EC3890 /* 203. 移除链表元素.swift */; };
 		AF7877252827772100EC3890 /* 206. 反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877242827772100EC3890 /* 206. 反转链表.swift */; };
 		AF78772728277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */; };
+		AF7877292827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */; };
+		AF78772B2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */; };
+		AF78772D282824C600EC3890 /* 942. 增减字符串匹配.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78772C282824C600EC3890 /* 942. 增减字符串匹配.swift */; };
 		AF7E5FBC2823F15A005D590F /* 567. 字符串的排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */; };
 		AF7E5FBE2824013B005D590F /* 36. 有效的数独.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */; };
 		AF7E5FC028240AE1005D590F /* 73. 矩阵置零.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */; };
@@ -164,6 +167,9 @@
 		AF787722282773E600EC3890 /* 203. 移除链表元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. 移除链表元素.swift"; sourceTree = "<group>"; };
 		AF7877242827772100EC3890 /* 206. 反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. 反转链表.swift"; sourceTree = "<group>"; };
 		AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. 删除排序链表中的重复元素.swift"; sourceTree = "<group>"; };
+		AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "863. 二叉树中所有距离为 K 的结点.swift"; sourceTree = "<group>"; };
+		AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "865. 具有所有最深节点的最小子树.swift"; sourceTree = "<group>"; };
+		AF78772C282824C600EC3890 /* 942. 增减字符串匹配.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "942. 增减字符串匹配.swift"; sourceTree = "<group>"; };
 		AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "567. 字符串的排列.swift"; sourceTree = "<group>"; };
 		AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. 有效的数独.swift"; sourceTree = "<group>"; };
 		AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. 矩阵置零.swift"; sourceTree = "<group>"; };
@@ -443,6 +449,9 @@
 				AF9E1508281E325C0091268D /* 1305. 两棵二叉搜索树中的所有元素.swift */,
 				AFBF35412804792300ED4EF8 /* 1567. 乘积为正数的最长子数组长度.swift */,
 				AFBF36252807E89100ED4EF8 /* 1672. 最富有客户的资产总量.swift */,
+				AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */,
+				AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */,
+				AF78772C282824C600EC3890 /* 942. 增减字符串匹配.swift */,
 				AF9E156128223B8C0091268D /* 1823. 找出游戏的获胜者.swift */,
 			);
 			path = "New Group";
@@ -548,6 +557,7 @@
 				AF9E14AE281A28C00091268D /* 905. 按奇偶排序数组.swift in Sources */,
 				AF9E14FD281D456C0091268D /* 704. 二分查找.swift in Sources */,
 				AF7E5FC2282431B4005D590F /* 933. 最近的请求次数.swift in Sources */,
+				AF78772B2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift in Sources */,
 				AF787723282773E600EC3890 /* 203. 移除链表元素.swift in Sources */,
 				AF78771F2827705700EC3890 /* 141. 环形链表.swift in Sources */,
 				AFBF36002807C2E200ED4EF8 /* 122. 买卖股票的最佳时机 II.swift in Sources */,
@@ -564,6 +574,7 @@
 				AFBF365E2808499600ED4EF8 /* 309. 最佳买卖股票时机含冷冻期.swift in Sources */,
 				AF78771D2826D7F400EC3890 /* 442. 数组中重复的数据.swift in Sources */,
 				AFBF349727FB0E8300ED4EF8 /* FenwickTree.swift in Sources */,
+				AF7877292827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift in Sources */,
 				AFBF35102801A72A00ED4EF8 /* 740. 删除并获得点数.swift in Sources */,
 				AFBF35D52807146000ED4EF8 /* 121. 买卖股票的最佳时机.swift in Sources */,
 				AF9E14E0281BC2450091268D /* 732. 我的日程安排表 III.swift in Sources */,
@@ -632,6 +643,7 @@
 				AFBF348E27F9A24800ED4EF8 /* 16. 最接近的三数之和.swift in Sources */,
 				AF9E151A28203B2D0091268D /* 344. 反转字符串.swift in Sources */,
 				AFBF35142802BABC00ED4EF8 /* 780. 到达终点.swift in Sources */,
+				AF78772D282824C600EC3890 /* 942. 增减字符串匹配.swift in Sources */,
 				AFBF348C27F93EC000ED4EF8 /* 744. 寻找比目标字母大的最小字母.swift in Sources */,
 				AF9E14F7281CDE490091268D /* 908. 最小差值 I.swift in Sources */,
 				AF9E14732813D8FA0091268D /* 208. 实现 Trie (前缀树).swift in Sources */,
