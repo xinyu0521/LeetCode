@@ -15,6 +15,11 @@
 		AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */; };
 		AF78771B2826BD0500EC3890 /* 116. 填充每个节点的下一个右侧节点指针.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78771A2826BD0500EC3890 /* 116. 填充每个节点的下一个右侧节点指针.swift */; };
 		AF78771D2826D7F400EC3890 /* 442. 数组中重复的数据.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78771C2826D7F400EC3890 /* 442. 数组中重复的数据.swift */; };
+		AF78771F2827705700EC3890 /* 141. 环形链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78771E2827705700EC3890 /* 141. 环形链表.swift */; };
+		AF787721282771FC00EC3890 /* 21. 合并两个有序链表 .swift in Sources */ = {isa = PBXBuildFile; fileRef = AF787720282771FC00EC3890 /* 21. 合并两个有序链表 .swift */; };
+		AF787723282773E600EC3890 /* 203. 移除链表元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF787722282773E600EC3890 /* 203. 移除链表元素.swift */; };
+		AF7877252827772100EC3890 /* 206. 反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877242827772100EC3890 /* 206. 反转链表.swift */; };
+		AF78772728277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */; };
 		AF7E5FBC2823F15A005D590F /* 567. 字符串的排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */; };
 		AF7E5FBE2824013B005D590F /* 36. 有效的数独.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */; };
 		AF7E5FC028240AE1005D590F /* 73. 矩阵置零.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */; };
@@ -154,6 +159,11 @@
 		AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "695. 岛屿的最大面积.swift"; sourceTree = "<group>"; };
 		AF78771A2826BD0500EC3890 /* 116. 填充每个节点的下一个右侧节点指针.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116. 填充每个节点的下一个右侧节点指针.swift"; sourceTree = "<group>"; };
 		AF78771C2826D7F400EC3890 /* 442. 数组中重复的数据.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "442. 数组中重复的数据.swift"; sourceTree = "<group>"; };
+		AF78771E2827705700EC3890 /* 141. 环形链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. 环形链表.swift"; sourceTree = "<group>"; };
+		AF787720282771FC00EC3890 /* 21. 合并两个有序链表 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21. 合并两个有序链表 .swift"; sourceTree = "<group>"; };
+		AF787722282773E600EC3890 /* 203. 移除链表元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "203. 移除链表元素.swift"; sourceTree = "<group>"; };
+		AF7877242827772100EC3890 /* 206. 反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. 反转链表.swift"; sourceTree = "<group>"; };
+		AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. 删除排序链表中的重复元素.swift"; sourceTree = "<group>"; };
 		AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "567. 字符串的排列.swift"; sourceTree = "<group>"; };
 		AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. 有效的数独.swift"; sourceTree = "<group>"; };
 		AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. 矩阵置零.swift"; sourceTree = "<group>"; };
@@ -361,6 +371,8 @@
 				AFBF36612809B04500ED4EF8 /* 385. 迷你语法分析器.swift */,
 				AFBF367D280CEDA300ED4EF8 /* 386. 字典序排数.swift */,
 				AF7E5FE628253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift */,
+				AF7877242827772100EC3890 /* 206. 反转链表.swift */,
+				AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */,
 				AFBF36E8280FFE8700ED4EF8 /* 388. 文件的最长绝对路径.swift */,
 				AFB664E528122FE4003DE67C /* 396. 旋转函数.swift */,
 				AF9E148D281632DF0091268D /* 398. 随机数索引.swift */,
@@ -382,6 +394,9 @@
 				AFBF366D280BF02800ED4EF8 /* 617. 合并二叉树.swift */,
 				AF78771A2826BD0500EC3890 /* 116. 填充每个节点的下一个右侧节点指针.swift */,
 				AF78771C2826D7F400EC3890 /* 442. 数组中重复的数据.swift */,
+				AF78771E2827705700EC3890 /* 141. 环形链表.swift */,
+				AF787720282771FC00EC3890 /* 21. 合并两个有序链表 .swift */,
+				AF787722282773E600EC3890 /* 203. 移除链表元素.swift */,
 				AFBF366B280BE5DD00ED4EF8 /* 637. 二叉树的层平均值.swift */,
 				AF9E1502281D4CF60091268D /* 652. 寻找重复的子树.swift */,
 				AFBF3683280D929F00ED4EF8 /* 654. 最大二叉树.swift */,
@@ -533,6 +548,8 @@
 				AF9E14AE281A28C00091268D /* 905. 按奇偶排序数组.swift in Sources */,
 				AF9E14FD281D456C0091268D /* 704. 二分查找.swift in Sources */,
 				AF7E5FC2282431B4005D590F /* 933. 最近的请求次数.swift in Sources */,
+				AF787723282773E600EC3890 /* 203. 移除链表元素.swift in Sources */,
+				AF78771F2827705700EC3890 /* 141. 环形链表.swift in Sources */,
 				AFBF36002807C2E200ED4EF8 /* 122. 买卖股票的最佳时机 II.swift in Sources */,
 				AF9E14F9281CE9180091268D /* 745. 前缀和后缀搜索.swift in Sources */,
 				AF9E1564282260A80091268D /* 486. 预测赢家.swift in Sources */,
@@ -552,10 +569,12 @@
 				AF9E14E0281BC2450091268D /* 732. 我的日程安排表 III.swift in Sources */,
 				AF7E5FBE2824013B005D590F /* 36. 有效的数独.swift in Sources */,
 				AFBF351C2803B28200ED4EF8 /* 357. 统计各位数字都不同的数字个数.swift in Sources */,
+				AF7877252827772100EC3890 /* 206. 反转链表.swift in Sources */,
 				AFBF36B9280F9FFE00ED4EF8 /* 332. 重新安排行程.swift in Sources */,
 				AF7E5FBC2823F15A005D590F /* 567. 字符串的排列.swift in Sources */,
 				AF9E150F281EE0890091268D /* 315. 计算右侧小于当前元素的个数.swift in Sources */,
 				AFBF34D127FDB61C00ED4EF8 /* 310. 最小高度树.swift in Sources */,
+				AF78772728277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift in Sources */,
 				AFBF3674280C33C300ED4EF8 /* 100. 相同的树.swift in Sources */,
 				AF9E1475281424060091268D /* 684. 冗余连接.swift in Sources */,
 				AF9E148E281632DF0091268D /* 398. 随机数索引.swift in Sources */,
@@ -603,6 +622,7 @@
 				AFBF36622809B04600ED4EF8 /* 385. 迷你语法分析器.swift in Sources */,
 				AF9E1572282366AF0091268D /* 713. 乘积小于 K 的子数组.swift in Sources */,
 				AF9E151C28203BAA0091268D /* 557. 反转字符串中的单词 III.swift in Sources */,
+				AF787721282771FC00EC3890 /* 21. 合并两个有序链表 .swift in Sources */,
 				AF9E1509281E325C0091268D /* 1305. 两棵二叉搜索树中的所有元素.swift in Sources */,
 				AF9E15702822A3970091268D /* 823. 带因子的二叉树.swift in Sources */,
 				AF12EDB727F5CD7B005F88F2 /* main.swift in Sources */,
