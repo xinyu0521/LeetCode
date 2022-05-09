@@ -23,6 +23,8 @@
 		AF7877292827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */; };
 		AF78772B2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */; };
 		AF78772D282824C600EC3890 /* 942. 增减字符串匹配.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78772C282824C600EC3890 /* 942. 增减字符串匹配.swift */; };
+		AF78774F2828E36E00EC3890 /* 542. 01 矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78774E2828E36E00EC3890 /* 542. 01 矩阵.swift */; };
+		AF7877512829310D00EC3890 /* 994. 腐烂的橘子.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877502829310D00EC3890 /* 994. 腐烂的橘子.swift */; };
 		AF7E5FBC2823F15A005D590F /* 567. 字符串的排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */; };
 		AF7E5FBE2824013B005D590F /* 36. 有效的数独.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */; };
 		AF7E5FC028240AE1005D590F /* 73. 矩阵置零.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */; };
@@ -170,6 +172,8 @@
 		AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "863. 二叉树中所有距离为 K 的结点.swift"; sourceTree = "<group>"; };
 		AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "865. 具有所有最深节点的最小子树.swift"; sourceTree = "<group>"; };
 		AF78772C282824C600EC3890 /* 942. 增减字符串匹配.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "942. 增减字符串匹配.swift"; sourceTree = "<group>"; };
+		AF78774E2828E36E00EC3890 /* 542. 01 矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "542. 01 矩阵.swift"; sourceTree = "<group>"; };
+		AF7877502829310D00EC3890 /* 994. 腐烂的橘子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "994. 腐烂的橘子.swift"; sourceTree = "<group>"; };
 		AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "567. 字符串的排列.swift"; sourceTree = "<group>"; };
 		AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. 有效的数独.swift"; sourceTree = "<group>"; };
 		AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. 矩阵置零.swift"; sourceTree = "<group>"; };
@@ -334,28 +338,34 @@
 				AFBF348D27F9A24800ED4EF8 /* 16. 最接近的三数之和.swift */,
 				AFBF348F27F9BF7000ED4EF8 /* 18. 四数之和.swift */,
 				AF9E156928226AA10091268D /* 19. 删除链表的倒数第 N 个结点.swift */,
+				AF787720282771FC00EC3890 /* 21. 合并两个有序链表 .swift */,
 				AF9E1500281D495B0091268D /* 35. 搜索插入位置.swift */,
 				AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */,
 				AFBF349127F9D35800ED4EF8 /* 45. 跳跃游戏 II.swift */,
 				AFBF351728030DDE00ED4EF8 /* 53. 最大子数组和.swift */,
 				AFBF35152802C45800ED4EF8 /* 55. 跳跃游戏.swift */,
 				AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */,
+				AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */,
 				AF9E1516281FD1EB0091268D /* 88. 合并两个有序数组.swift */,
 				AF9E14B4281ACAED0091268D /* 98. 验证二叉搜索树.swift */,
 				AFBF3673280C33C300ED4EF8 /* 100. 相同的树.swift */,
 				AFBF3677280C3AB000ED4EF8 /* 102. 二叉树的层序遍历.swift */,
 				AFBF3675280C364B00ED4EF8 /* 110. 平衡二叉树.swift */,
 				AFBF3671280C2C8500ED4EF8 /* 113. 路径总和 II.swift */,
+				AF78771A2826BD0500EC3890 /* 116. 填充每个节点的下一个右侧节点指针.swift */,
 				AF9E156D282274310091268D /* 118. 杨辉三角.swift */,
 				AFBF35D42807146000ED4EF8 /* 121. 买卖股票的最佳时机.swift */,
 				AFBF35FF2807C2E200ED4EF8 /* 122. 买卖股票的最佳时机 II.swift */,
 				AF9E14932816C1B30091268D /* 124. 二叉树中的最大路径和.swift */,
 				AFBF3663280AA42C00ED4EF8 /* 139. 单词拆分.swift */,
+				AF78771E2827705700EC3890 /* 141. 环形链表.swift */,
 				AFBF3685280D998B00ED4EF8 /* 145. 二叉树的后序遍历.swift */,
 				AFBF353F280458CA00ED4EF8 /* 152. 乘积最大子数组.swift */,
 				AF9E1512281FCD460091268D /* 167. 两数之和 II - 输入有序数组.swift */,
 				AF9E1506281E2D670091268D /* 189. 轮转数组.swift */,
 				AFBF34EA27FF2E7500ED4EF8 /* 198. 打家劫舍.swift */,
+				AF787722282773E600EC3890 /* 203. 移除链表元素.swift */,
+				AF7877242827772100EC3890 /* 206. 反转链表.swift */,
 				AF9E14722813D8FA0091268D /* 208. 实现 Trie (前缀树).swift */,
 				AFBF350D28008DC700ED4EF8 /* 213. 打家劫舍 II.swift */,
 				AF9E150C281EBB580091268D /* 217. 存在重复元素.swift */,
@@ -377,8 +387,6 @@
 				AFBF36612809B04500ED4EF8 /* 385. 迷你语法分析器.swift */,
 				AFBF367D280CEDA300ED4EF8 /* 386. 字典序排数.swift */,
 				AF7E5FE628253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift */,
-				AF7877242827772100EC3890 /* 206. 反转链表.swift */,
-				AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */,
 				AFBF36E8280FFE8700ED4EF8 /* 388. 文件的最长绝对路径.swift */,
 				AFB664E528122FE4003DE67C /* 396. 旋转函数.swift */,
 				AF9E148D281632DF0091268D /* 398. 随机数索引.swift */,
@@ -388,21 +396,18 @@
 				AF9E14B6281B83B70091268D /* 427. 建立四叉树.swift */,
 				AFBF34EC27FFC2FA00ED4EF8 /* 429. N 叉树的层序遍历.swift */,
 				AF787702282608E600EC3890 /* 433. 最小基因变化.swift */,
+				AF78771C2826D7F400EC3890 /* 442. 数组中重复的数据.swift */,
 				AF9E155F2821734F0091268D /* 450. 删除二叉搜索树中的节点.swift */,
 				AFBF36EA281059EC00ED4EF8 /* 460. LFU 缓存.swift */,
 				AF9E1563282260A80091268D /* 486. 预测赢家.swift */,
 				AF9E14F4281C198B0091268D /* 530. 二叉搜索树的最小绝对差.swift */,
+				AF78774E2828E36E00EC3890 /* 542. 01 矩阵.swift */,
 				AF9E148F281676840091268D /* 543. 二叉树的直径.swift */,
 				AF9E151B28203BAA0091268D /* 557. 反转字符串中的单词 III.swift */,
 				AF9E156B28226E3A0091268D /* 566. 重塑矩阵.swift */,
 				AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */,
 				AFBF366F280BFDFA00ED4EF8 /* 606. 根据二叉树创建字符串.swift */,
 				AFBF366D280BF02800ED4EF8 /* 617. 合并二叉树.swift */,
-				AF78771A2826BD0500EC3890 /* 116. 填充每个节点的下一个右侧节点指针.swift */,
-				AF78771C2826D7F400EC3890 /* 442. 数组中重复的数据.swift */,
-				AF78771E2827705700EC3890 /* 141. 环形链表.swift */,
-				AF787720282771FC00EC3890 /* 21. 合并两个有序链表 .swift */,
-				AF787722282773E600EC3890 /* 203. 移除链表元素.swift */,
 				AFBF366B280BE5DD00ED4EF8 /* 637. 二叉树的层平均值.swift */,
 				AF9E1502281D4CF60091268D /* 652. 寻找重复的子树.swift */,
 				AFBF3683280D929F00ED4EF8 /* 654. 最大二叉树.swift */,
@@ -413,6 +418,7 @@
 				AF9E149128168DF00091268D /* 685. 冗余连接 II.swift */,
 				AF9E148B2815969F0091268D /* 687. 最长同值路径.swift */,
 				AF9E147628142DD00091268D /* 690. 员工的重要性 .swift */,
+				AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */,
 				AF9E14B2281AC0F50091268D /* 699. 掉落的方块.swift */,
 				AF9E14FC281D456C0091268D /* 704. 二分查找.swift */,
 				AF9E1571282366AF0091268D /* 713. 乘积小于 K 的子数组.swift */,
@@ -434,7 +440,8 @@
 				AFBF3687280E48E600ED4EF8 /* 821. 字符的最短距离.swift */,
 				AF9E156F2822A3970091268D /* 823. 带因子的二叉树.swift */,
 				AFB664DF28117C37003DE67C /* 824. 山羊拉丁文.swift */,
-				AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */,
+				AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */,
+				AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */,
 				AF9E14782814D3310091268D /* 868. 二进制间距.swift */,
 				AF9E15652822675E0091268D /* 876. 链表的中间结点.swift */,
 				AF9E1495281782CD0091268D /* 883. 三维形体投影面积.swift */,
@@ -443,15 +450,14 @@
 				AFBF35192803284B00ED4EF8 /* 918. 环形子数组的最大和.swift */,
 				AF7E5FC1282431B4005D590F /* 933. 最近的请求次数.swift */,
 				AF9E151F2820CBDA0091268D /* 937. 重新排列日志文件.swift */,
+				AF78772C282824C600EC3890 /* 942. 增减字符串匹配.swift */,
 				AF58595727F7531000CB4F64 /* 954. 二倍数对数组.swift */,
 				AF9E1504281E24BF0091268D /* 977. 有序数组的平方.swift */,
+				AF7877502829310D00EC3890 /* 994. 腐烂的橘子.swift */,
 				AFBF35D22806F13F00ED4EF8 /* 1014. 最佳观光组合.swift */,
 				AF9E1508281E325C0091268D /* 1305. 两棵二叉搜索树中的所有元素.swift */,
 				AFBF35412804792300ED4EF8 /* 1567. 乘积为正数的最长子数组长度.swift */,
 				AFBF36252807E89100ED4EF8 /* 1672. 最富有客户的资产总量.swift */,
-				AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */,
-				AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */,
-				AF78772C282824C600EC3890 /* 942. 增减字符串匹配.swift */,
 				AF9E156128223B8C0091268D /* 1823. 找出游戏的获胜者.swift */,
 			);
 			path = "New Group";
@@ -597,6 +603,7 @@
 				AF9E14792814D3310091268D /* 868. 二进制间距.swift in Sources */,
 				AF9E15662822675E0091268D /* 876. 链表的中间结点.swift in Sources */,
 				AF9E149228168DF00091268D /* 685. 冗余连接 II.swift in Sources */,
+				AF7877512829310D00EC3890 /* 994. 腐烂的橘子.swift in Sources */,
 				AFBF34ED27FFC2FA00ED4EF8 /* 429. N 叉树的层序遍历.swift in Sources */,
 				AF9E14B7281B83B70091268D /* 427. 建立四叉树.swift in Sources */,
 				AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */,
@@ -679,6 +686,7 @@
 				AFBF349227F9D35800ED4EF8 /* 45. 跳跃游戏 II.swift in Sources */,
 				AF9E14FF281D469B0091268D /* 278. 第一个错误的版本.swift in Sources */,
 				AF7E5FED28257CAC005D590F /* 733. 图像渲染.swift in Sources */,
+				AF78774F2828E36E00EC3890 /* 542. 01 矩阵.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
