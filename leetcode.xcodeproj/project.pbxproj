@@ -28,6 +28,13 @@
 		AF7877572829F34200EC3890 /* 77. 组合.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877562829F34200EC3890 /* 77. 组合.swift */; };
 		AF78775B282A984700EC3890 /* 46. 全排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78775A282A984700EC3890 /* 46. 全排列.swift */; };
 		AF78775D282A9A7800EC3890 /* 784. 字母大小写全排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF78775C282A9A7800EC3890 /* 784. 字母大小写全排列.swift */; };
+		AF7877CC282BE1DE00EC3890 /* 449. 序列化和反序列化二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877CB282BE1DE00EC3890 /* 449. 序列化和反序列化二叉搜索树.swift */; };
+		AF7877CE282BE29900EC3890 /* 70. 爬楼梯.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877CD282BE29900EC3890 /* 70. 爬楼梯.swift */; };
+		AF7877D0282BED4100EC3890 /* 120. 三角形最小路径和.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877CF282BED4100EC3890 /* 120. 三角形最小路径和.swift */; };
+		AF7877D2282BF31900EC3890 /* 20. 有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877D1282BF31900EC3890 /* 20. 有效的括号.swift */; };
+		AF7877D4282BF4E500EC3890 /* 232. 用栈实现队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877D3282BF4E500EC3890 /* 232. 用栈实现队列.swift */; };
+		AF7877D6282BF63000EC3890 /* 144. 二叉树的前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877D5282BF63000EC3890 /* 144. 二叉树的前序遍历.swift */; };
+		AF7877D8282BF6DE00EC3890 /* 94. 二叉树的中序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877D7282BF6DE00EC3890 /* 94. 二叉树的中序遍历.swift */; };
 		AF7E5FBC2823F15A005D590F /* 567. 字符串的排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */; };
 		AF7E5FBE2824013B005D590F /* 36. 有效的数独.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */; };
 		AF7E5FC028240AE1005D590F /* 73. 矩阵置零.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */; };
@@ -180,6 +187,13 @@
 		AF7877562829F34200EC3890 /* 77. 组合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. 组合.swift"; sourceTree = "<group>"; };
 		AF78775A282A984700EC3890 /* 46. 全排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. 全排列.swift"; sourceTree = "<group>"; };
 		AF78775C282A9A7800EC3890 /* 784. 字母大小写全排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "784. 字母大小写全排列.swift"; sourceTree = "<group>"; };
+		AF7877CB282BE1DE00EC3890 /* 449. 序列化和反序列化二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "449. 序列化和反序列化二叉搜索树.swift"; sourceTree = "<group>"; };
+		AF7877CD282BE29900EC3890 /* 70. 爬楼梯.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. 爬楼梯.swift"; sourceTree = "<group>"; };
+		AF7877CF282BED4100EC3890 /* 120. 三角形最小路径和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "120. 三角形最小路径和.swift"; sourceTree = "<group>"; };
+		AF7877D1282BF31900EC3890 /* 20. 有效的括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. 有效的括号.swift"; sourceTree = "<group>"; };
+		AF7877D3282BF4E500EC3890 /* 232. 用栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "232. 用栈实现队列.swift"; sourceTree = "<group>"; };
+		AF7877D5282BF63000EC3890 /* 144. 二叉树的前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "144. 二叉树的前序遍历.swift"; sourceTree = "<group>"; };
+		AF7877D7282BF6DE00EC3890 /* 94. 二叉树的中序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "94. 二叉树的中序遍历.swift"; sourceTree = "<group>"; };
 		AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "567. 字符串的排列.swift"; sourceTree = "<group>"; };
 		AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36. 有效的数独.swift"; sourceTree = "<group>"; };
 		AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "73. 矩阵置零.swift"; sourceTree = "<group>"; };
@@ -348,9 +362,11 @@
 				AF9E1500281D495B0091268D /* 35. 搜索插入位置.swift */,
 				AF7E5FBD2824013B005D590F /* 36. 有效的数独.swift */,
 				AFBF349127F9D35800ED4EF8 /* 45. 跳跃游戏 II.swift */,
+				AF78775A282A984700EC3890 /* 46. 全排列.swift */,
 				AFBF351728030DDE00ED4EF8 /* 53. 最大子数组和.swift */,
 				AFBF35152802C45800ED4EF8 /* 55. 跳跃游戏.swift */,
 				AF7E5FBF28240AE1005D590F /* 73. 矩阵置零.swift */,
+				AF7877562829F34200EC3890 /* 77. 组合.swift */,
 				AF78772628277D3700EC3890 /* 83. 删除排序链表中的重复元素.swift */,
 				AF9E1516281FD1EB0091268D /* 88. 合并两个有序数组.swift */,
 				AF9E14B4281ACAED0091268D /* 98. 验证二叉搜索树.swift */,
@@ -362,6 +378,7 @@
 				AF9E156D282274310091268D /* 118. 杨辉三角.swift */,
 				AFBF35D42807146000ED4EF8 /* 121. 买卖股票的最佳时机.swift */,
 				AFBF35FF2807C2E200ED4EF8 /* 122. 买卖股票的最佳时机 II.swift */,
+				AF7877CF282BED4100EC3890 /* 120. 三角形最小路径和.swift */,
 				AF9E14932816C1B30091268D /* 124. 二叉树中的最大路径和.swift */,
 				AFBF3663280AA42C00ED4EF8 /* 139. 单词拆分.swift */,
 				AF78771E2827705700EC3890 /* 141. 环形链表.swift */,
@@ -397,6 +414,7 @@
 				AFB664E528122FE4003DE67C /* 396. 旋转函数.swift */,
 				AF9E148D281632DF0091268D /* 398. 随机数索引.swift */,
 				AFBF3665280BC58C00ED4EF8 /* 404. 左叶子之和.swift */,
+				AF7877CB282BE1DE00EC3890 /* 449. 序列化和反序列化二叉搜索树.swift */,
 				AFBF349A27FC64DC00ED4EF8 /* 413. 等差数列划分 .swift */,
 				AF9E14A92818DBE20091268D /* 417. 太平洋大西洋水流问题.swift */,
 				AF9E14B6281B83B70091268D /* 427. 建立四叉树.swift */,
@@ -439,10 +457,14 @@
 				AFBF34E827FF079500ED4EF8 /* 746. 使用最小花费爬楼梯.swift */,
 				AFBF349827FBE4C200ED4EF8 /* 762. 二进制表示中质数个计算置位.swift */,
 				AFBF35132802BABC00ED4EF8 /* 780. 到达终点.swift */,
+				AF78775C282A9A7800EC3890 /* 784. 字母大小写全排列.swift */,
 				AFBF34D227FE705C00ED4EF8 /* 796. 旋转字符串.swift */,
 				AFBF35112802745B00ED4EF8 /* 804. 唯一摩尔斯密码词.swift */,
-				AF78775C282A9A7800EC3890 /* 784. 字母大小写全排列.swift */,
 				AFBF354328051CC400ED4EF8 /* 806. 写字符串需要的行数.swift */,
+				AF7877D5282BF63000EC3890 /* 144. 二叉树的前序遍历.swift */,
+				AF7877D1282BF31900EC3890 /* 20. 有效的括号.swift */,
+				AF7877D3282BF4E500EC3890 /* 232. 用栈实现队列.swift */,
+				AF7877D7282BF6DE00EC3890 /* 94. 二叉树的中序遍历.swift */,
 				AFBF3679280C6DB200ED4EF8 /* 819. 最常见的单词.swift */,
 				AFBF3687280E48E600ED4EF8 /* 821. 字符的最短距离.swift */,
 				AF9E156F2822A3970091268D /* 823. 带因子的二叉树.swift */,
@@ -451,8 +473,6 @@
 				AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */,
 				AF9E14782814D3310091268D /* 868. 二进制间距.swift */,
 				AF9E15652822675E0091268D /* 876. 链表的中间结点.swift */,
-				AF7877562829F34200EC3890 /* 77. 组合.swift */,
-				AF78775A282A984700EC3890 /* 46. 全排列.swift */,
 				AF9E1495281782CD0091268D /* 883. 三维形体投影面积.swift */,
 				AF9E14AD281A28C00091268D /* 905. 按奇偶排序数组.swift */,
 				AF9E14F6281CDE480091268D /* 908. 最小差值 I.swift */,
@@ -468,6 +488,7 @@
 				AFBF35412804792300ED4EF8 /* 1567. 乘积为正数的最长子数组长度.swift */,
 				AFBF36252807E89100ED4EF8 /* 1672. 最富有客户的资产总量.swift */,
 				AF9E156128223B8C0091268D /* 1823. 找出游戏的获胜者.swift */,
+				AF7877CD282BE29900EC3890 /* 70. 爬楼梯.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -573,9 +594,11 @@
 				AF9E14FD281D456C0091268D /* 704. 二分查找.swift in Sources */,
 				AF7E5FC2282431B4005D590F /* 933. 最近的请求次数.swift in Sources */,
 				AF78772B2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift in Sources */,
+				AF7877D2282BF31900EC3890 /* 20. 有效的括号.swift in Sources */,
 				AF787723282773E600EC3890 /* 203. 移除链表元素.swift in Sources */,
 				AF78771F2827705700EC3890 /* 141. 环形链表.swift in Sources */,
 				AFBF36002807C2E200ED4EF8 /* 122. 买卖股票的最佳时机 II.swift in Sources */,
+				AF7877D6282BF63000EC3890 /* 144. 二叉树的前序遍历.swift in Sources */,
 				AF9E14F9281CE9180091268D /* 745. 前缀和后缀搜索.swift in Sources */,
 				AF9E1564282260A80091268D /* 486. 预测赢家.swift in Sources */,
 				AFBF3664280AA42C00ED4EF8 /* 139. 单词拆分.swift in Sources */,
@@ -634,6 +657,7 @@
 				AFBF365C28083D0B00ED4EF8 /* 714. 买卖股票的最佳时机含手续费.swift in Sources */,
 				AFBF3672280C2C8500ED4EF8 /* 113. 路径总和 II.swift in Sources */,
 				AFBF349B27FC64DC00ED4EF8 /* 413. 等差数列划分 .swift in Sources */,
+				AF7877D0282BED4100EC3890 /* 120. 三角形最小路径和.swift in Sources */,
 				AFBF36E9280FFE8700ED4EF8 /* 388. 文件的最长绝对路径.swift in Sources */,
 				AF9E1515281FD0120091268D /* 1. 两数之和.swift in Sources */,
 				AF9E14AC281968F20091268D /* 715. Range 模块.swift in Sources */,
@@ -641,6 +665,7 @@
 				AFBF366E280BF02800ED4EF8 /* 617. 合并二叉树.swift in Sources */,
 				AF9E14F5281C198C0091268D /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				AFBF3668280BC5A600ED4EF8 /* TreeNode.swift in Sources */,
+				AF7877CE282BE29900EC3890 /* 70. 爬楼梯.swift in Sources */,
 				AF787703282608E600EC3890 /* 433. 最小基因变化.swift in Sources */,
 				AFBF3678280C3AB100ED4EF8 /* 102. 二叉树的层序遍历.swift in Sources */,
 				AF9E14B3281AC0F50091268D /* 699. 掉落的方块.swift in Sources */,
@@ -656,6 +681,7 @@
 				AF9E15702822A3970091268D /* 823. 带因子的二叉树.swift in Sources */,
 				AF12EDB727F5CD7B005F88F2 /* main.swift in Sources */,
 				AF9E1513281FCD460091268D /* 167. 两数之和 II - 输入有序数组.swift in Sources */,
+				AF7877D8282BF6DE00EC3890 /* 94. 二叉树的中序遍历.swift in Sources */,
 				AFBF34D327FE705C00ED4EF8 /* 796. 旋转字符串.swift in Sources */,
 				AF9E1496281782CD0091268D /* 883. 三维形体投影面积.swift in Sources */,
 				AFBF348E27F9A24800ED4EF8 /* 16. 最接近的三数之和.swift in Sources */,
@@ -693,8 +719,10 @@
 				AFBF348A27F886D400ED4EF8 /* 15. 三数之和.swift in Sources */,
 				AF9E147728142DD00091268D /* 690. 员工的重要性 .swift in Sources */,
 				AFBF3686280D998B00ED4EF8 /* 145. 二叉树的后序遍历.swift in Sources */,
+				AF7877CC282BE1DE00EC3890 /* 449. 序列化和反序列化二叉搜索树.swift in Sources */,
 				AFBF3688280E48E600ED4EF8 /* 821. 字符的最短距离.swift in Sources */,
 				AF9E156C28226E3A0091268D /* 566. 重塑矩阵.swift in Sources */,
+				AF7877D4282BF4E500EC3890 /* 232. 用栈实现队列.swift in Sources */,
 				AFBF349227F9D35800ED4EF8 /* 45. 跳跃游戏 II.swift in Sources */,
 				AF9E14FF281D469B0091268D /* 278. 第一个错误的版本.swift in Sources */,
 				AF7E5FED28257CAC005D590F /* 733. 图像渲染.swift in Sources */,

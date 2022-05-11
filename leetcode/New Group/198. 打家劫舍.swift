@@ -8,19 +8,12 @@
 import Foundation
 
 func rob(_ nums: [Int]) -> Int {
-    var dp = Array(repeating: -1, count: nums.count + 1)
-    
-    func rob(_ n: Int) -> Int {
-        if n < 0 {
-            return 0
-        }
-        
-        if dp[n] != -1 { return dp[n] }
-        let res = max(nums[n] + rob(n - 2), rob(n - 1))
-        dp[n] = res
-        
-        return res
+    var dp = Array(repeating: (r: 0, n: 0), count: nums.count)
+    dp[0] = (nums[0], 0)
+    for i in 1 ..< nums.count {
+        dp[i].r = nums[i] + dp[i - 1].n
+        dp[i].n = max(dp[i - 1].r, dp[i - 1].n)
     }
-    
-    return rob(nums.count - 1)
+
+    return max(dp.last!.r, dp.last!.n)
 }
