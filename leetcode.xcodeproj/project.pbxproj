@@ -19,6 +19,9 @@
 		AF448F53282EBC1B0024CCBA /* 653. 两数之和 IV - 输入 BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F52282EBC1B0024CCBA /* 653. 两数之和 IV - 输入 BST.swift */; };
 		AF448F55282EBE020024CCBA /* 235. 二叉搜索树的最近公共祖先.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F54282EBE010024CCBA /* 235. 二叉搜索树的最近公共祖先.swift */; };
 		AF448F57282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F56282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift */; };
+		AF448F6C282FFE4F0024CCBA /* 894. 所有可能的满二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F6B282FFE4F0024CCBA /* 894. 所有可能的满二叉树.swift */; };
+		AF448F6E2830A2AB0024CCBA /* 812. 最大三角形面积.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F6D2830A2AB0024CCBA /* 812. 最大三角形面积.swift */; };
+		AF448F702830A7AF0024CCBA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F6F2830A7AF0024CCBA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift */; };
 		AF58595827F7531000CB4F64 /* 954. 二倍数对数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF58595727F7531000CB4F64 /* 954. 二倍数对数组.swift */; };
 		AF787703282608E600EC3890 /* 433. 最小基因变化.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF787702282608E600EC3890 /* 433. 最小基因变化.swift */; };
 		AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */; };
@@ -194,6 +197,9 @@
 		AF448F52282EBC1B0024CCBA /* 653. 两数之和 IV - 输入 BST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "653. 两数之和 IV - 输入 BST.swift"; sourceTree = "<group>"; };
 		AF448F54282EBE010024CCBA /* 235. 二叉搜索树的最近公共祖先.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "235. 二叉搜索树的最近公共祖先.swift"; sourceTree = "<group>"; };
 		AF448F56282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer II 095. 最长公共子序列.swift"; sourceTree = "<group>"; };
+		AF448F6B282FFE4F0024CCBA /* 894. 所有可能的满二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "894. 所有可能的满二叉树.swift"; sourceTree = "<group>"; };
+		AF448F6D2830A2AB0024CCBA /* 812. 最大三角形面积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "812. 最大三角形面积.swift"; sourceTree = "<group>"; };
+		AF448F6F2830A7AF0024CCBA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. 在排序数组中查找元素的第一个和最后一个位置.swift"; sourceTree = "<group>"; };
 		AF58595727F7531000CB4F64 /* 954. 二倍数对数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "954. 二倍数对数组.swift"; sourceTree = "<group>"; };
 		AF787702282608E600EC3890 /* 433. 最小基因变化.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "433. 最小基因变化.swift"; sourceTree = "<group>"; };
 		AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "695. 岛屿的最大面积.swift"; sourceTree = "<group>"; };
@@ -537,6 +543,9 @@
 				AF448F4E282E818B0024CCBA /* 701. 二叉搜索树中的插入操作.swift */,
 				AF448F50282EA33E0024CCBA /* 889. 根据前序和后序遍历构造二叉树.swift */,
 				AF448F56282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift */,
+				AF448F6B282FFE4F0024CCBA /* 894. 所有可能的满二叉树.swift */,
+				AF448F6D2830A2AB0024CCBA /* 812. 最大三角形面积.swift */,
+				AF448F6F2830A7AF0024CCBA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -634,6 +643,7 @@
 			files = (
 				AFBF366C280BE5DD00ED4EF8 /* 637. 二叉树的层平均值.swift in Sources */,
 				AF448F22282E3A310024CCBA /* 190. 颠倒二进制位 .swift in Sources */,
+				AF448F6C282FFE4F0024CCBA /* 894. 所有可能的满二叉树.swift in Sources */,
 				AF448F4F282E818B0024CCBA /* 701. 二叉搜索树中的插入操作.swift in Sources */,
 				AF7E5FEB28257A48005D590F /* 242. 有效的字母异位词.swift in Sources */,
 				AFBF36EB281059ED00ED4EF8 /* 460. LFU 缓存.swift in Sources */,
@@ -713,6 +723,7 @@
 				AF93820F282D3BCF0005C643 /* 226. 翻转二叉树.swift in Sources */,
 				AFBF349B27FC64DC00ED4EF8 /* 413. 等差数列划分 .swift in Sources */,
 				AF7877D0282BED4100EC3890 /* 120. 三角形最小路径和.swift in Sources */,
+				AF448F702830A7AF0024CCBA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */,
 				AFBF36E9280FFE8700ED4EF8 /* 388. 文件的最长绝对路径.swift in Sources */,
 				AF9E1515281FD0120091268D /* 1. 两数之和.swift in Sources */,
 				AF9E14AC281968F20091268D /* 715. Range 模块.swift in Sources */,
@@ -732,6 +743,7 @@
 				AF9E1572282366AF0091268D /* 713. 乘积小于 K 的子数组.swift in Sources */,
 				AF448F57282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift in Sources */,
 				AF9E151C28203BAA0091268D /* 557. 反转字符串中的单词 III.swift in Sources */,
+				AF448F6E2830A2AB0024CCBA /* 812. 最大三角形面积.swift in Sources */,
 				AF787721282771FC00EC3890 /* 21. 合并两个有序链表 .swift in Sources */,
 				AF9E1509281E325C0091268D /* 1305. 两棵二叉搜索树中的所有元素.swift in Sources */,
 				AF9E15702822A3970091268D /* 823. 带因子的二叉树.swift in Sources */,
