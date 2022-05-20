@@ -27,6 +27,10 @@
 		AF448FE2283393020024CCBA /* SegmentTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FE1283393020024CCBA /* SegmentTree.swift */; };
 		AF448FE42833CBC40024CCBA /* 1145. 二叉树着色游戏.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FE32833CBC40024CCBA /* 1145. 二叉树着色游戏.swift */; };
 		AF448FE62833E8480024CCBA /* 1110. 删点成林.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FE52833E8480024CCBA /* 1110. 删点成林.swift */; };
+		AF448FE8283495A00024CCBA /* 668. 乘法表中第k小的数.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FE72834959F0024CCBA /* 668. 乘法表中第k小的数.swift */; };
+		AF448FF0283527E40024CCBA /* 1296. 划分数组为连续数字的集合.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FEF283527E40024CCBA /* 1296. 划分数组为连续数字的集合.swift */; };
+		AF448FF2283550D40024CCBA /* 462. 最少移动次数使数组元素相等 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FF1283550D40024CCBA /* 462. 最少移动次数使数组元素相等 II.swift */; };
+		AF448FF428372CA10024CCBA /* 436. 寻找右区间.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FF328372CA10024CCBA /* 436. 寻找右区间.swift */; };
 		AF58595827F7531000CB4F64 /* 954. 二倍数对数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF58595727F7531000CB4F64 /* 954. 二倍数对数组.swift */; };
 		AF787703282608E600EC3890 /* 433. 最小基因变化.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF787702282608E600EC3890 /* 433. 最小基因变化.swift */; };
 		AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */; };
@@ -210,6 +214,10 @@
 		AF448FE1283393020024CCBA /* SegmentTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentTree.swift; sourceTree = "<group>"; };
 		AF448FE32833CBC40024CCBA /* 1145. 二叉树着色游戏.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1145. 二叉树着色游戏.swift"; sourceTree = "<group>"; };
 		AF448FE52833E8480024CCBA /* 1110. 删点成林.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1110. 删点成林.swift"; sourceTree = "<group>"; };
+		AF448FE72834959F0024CCBA /* 668. 乘法表中第k小的数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "668. 乘法表中第k小的数.swift"; sourceTree = "<group>"; };
+		AF448FEF283527E40024CCBA /* 1296. 划分数组为连续数字的集合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1296. 划分数组为连续数字的集合.swift"; sourceTree = "<group>"; };
+		AF448FF1283550D40024CCBA /* 462. 最少移动次数使数组元素相等 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "462. 最少移动次数使数组元素相等 II.swift"; sourceTree = "<group>"; };
+		AF448FF328372CA10024CCBA /* 436. 寻找右区间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "436. 寻找右区间.swift"; sourceTree = "<group>"; };
 		AF58595727F7531000CB4F64 /* 954. 二倍数对数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "954. 二倍数对数组.swift"; sourceTree = "<group>"; };
 		AF787702282608E600EC3890 /* 433. 最小基因变化.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "433. 最小基因变化.swift"; sourceTree = "<group>"; };
 		AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "695. 岛屿的最大面积.swift"; sourceTree = "<group>"; };
@@ -560,6 +568,10 @@
 				AF448F9A2833328C0024CCBA /* 953. 验证外星语词典.swift */,
 				AF448FE32833CBC40024CCBA /* 1145. 二叉树着色游戏.swift */,
 				AF448FE52833E8480024CCBA /* 1110. 删点成林.swift */,
+				AF448FE72834959F0024CCBA /* 668. 乘法表中第k小的数.swift */,
+				AF448FEF283527E40024CCBA /* 1296. 划分数组为连续数字的集合.swift */,
+				AF448FF1283550D40024CCBA /* 462. 最少移动次数使数组元素相等 II.swift */,
+				AF448FF328372CA10024CCBA /* 436. 寻找右区间.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -688,6 +700,7 @@
 				AFBF365E2808499600ED4EF8 /* 309. 最佳买卖股票时机含冷冻期.swift in Sources */,
 				AF78771D2826D7F400EC3890 /* 442. 数组中重复的数据.swift in Sources */,
 				AFBF349727FB0E8300ED4EF8 /* FenwickTree.swift in Sources */,
+				AF448FF0283527E40024CCBA /* 1296. 划分数组为连续数字的集合.swift in Sources */,
 				AF7877292827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift in Sources */,
 				AFBF35102801A72A00ED4EF8 /* 740. 删除并获得点数.swift in Sources */,
 				AFBF35D52807146000ED4EF8 /* 121. 买卖股票的最佳时机.swift in Sources */,
@@ -710,6 +723,7 @@
 				AFBF35162802C45800ED4EF8 /* 55. 跳跃游戏.swift in Sources */,
 				AF9E14AA2818DBE20091268D /* 417. 太平洋大西洋水流问题.swift in Sources */,
 				AF78775B282A984700EC3890 /* 46. 全排列.swift in Sources */,
+				AF448FF428372CA10024CCBA /* 436. 寻找右区间.swift in Sources */,
 				AFBF349027F9BF7000ED4EF8 /* 18. 四数之和.swift in Sources */,
 				AFBF34E927FF079500ED4EF8 /* 746. 使用最小花费爬楼梯.swift in Sources */,
 				AF448FE42833CBC40024CCBA /* 1145. 二叉树着色游戏.swift in Sources */,
@@ -721,6 +735,7 @@
 				AF9E14B7281B83B70091268D /* 427. 建立四叉树.swift in Sources */,
 				AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */,
 				AFBF35422804792300ED4EF8 /* 1567. 乘积为正数的最长子数组长度.swift in Sources */,
+				AF448FF2283550D40024CCBA /* 462. 最少移动次数使数组元素相等 II.swift in Sources */,
 				AF9E14B5281ACAED0091268D /* 98. 验证二叉搜索树.swift in Sources */,
 				AFBF3676280C364B00ED4EF8 /* 110. 平衡二叉树.swift in Sources */,
 				AFB664E028117C37003DE67C /* 824. 山羊拉丁文.swift in Sources */,
@@ -765,6 +780,7 @@
 				AF9E151C28203BAA0091268D /* 557. 反转字符串中的单词 III.swift in Sources */,
 				AF448F6E2830A2AB0024CCBA /* 812. 最大三角形面积.swift in Sources */,
 				AF787721282771FC00EC3890 /* 21. 合并两个有序链表 .swift in Sources */,
+				AF448FE8283495A00024CCBA /* 668. 乘法表中第k小的数.swift in Sources */,
 				AF9E1509281E325C0091268D /* 1305. 两棵二叉搜索树中的所有元素.swift in Sources */,
 				AF9E15702822A3970091268D /* 823. 带因子的二叉树.swift in Sources */,
 				AF448F55282EBE020024CCBA /* 235. 二叉搜索树的最近公共祖先.swift in Sources */,

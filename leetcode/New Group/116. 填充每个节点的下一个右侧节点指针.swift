@@ -26,26 +26,13 @@ func connect(_ root: Node?) -> Node? {
         return nil
     }
     
-    var queue: ArraySlice<[Node]> = [[root]]
-    
-    while !queue.isEmpty {
-        var next: [Node] = []
-        let nodes = queue.removeFirst()
-        for i in 0 ..< nodes.count {
-            if i != nodes.count - 1 {
-                nodes[i].next = nodes[i + 1]
-            }
-            if let left = nodes[i].left {
-                next.append(left)
-            }
-            if let right = nodes[i].right {
-                next.append(right)
-            }
-        }
-        if !next.isEmpty {
-            queue.append(next)
-        }
+    if root.left != nil {
+        root.left?.next = root.right
+        root.right?.next = root.next?.left
     }
+    
+    connect(root.left)
+    connect(root.right)
     
     return root
 }
