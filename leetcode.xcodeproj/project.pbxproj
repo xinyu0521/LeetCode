@@ -35,6 +35,10 @@
 		AF448FF828375BC50024CCBA /* 108. 将有序数组转换为二叉搜索树.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FF728375BC50024CCBA /* 108. 将有序数组转换为二叉搜索树.swift */; };
 		AF448FFA2837B8900024CCBA /* 1373. 二叉搜索子树的最大键值和.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FF92837B8900024CCBA /* 1373. 二叉搜索子树的最大键值和.swift */; };
 		AF448FFC283879D00024CCBA /* 961. 在长度 2N 的数组中找出重复 N 次的元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FFB283879D00024CCBA /* 961. 在长度 2N 的数组中找出重复 N 次的元素.swift */; };
+		AF448FFE2838B4CB0024CCBA /* 1443. 收集树上所有苹果的最少时间.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FFD2838B4CB0024CCBA /* 1443. 收集树上所有苹果的最少时间.swift */; };
+		AF449000283905BE0024CCBA /* 1457. 二叉树中的伪回文路径.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448FFF283905BE0024CCBA /* 1457. 二叉树中的伪回文路径.swift */; };
+		AF449002283951AD0024CCBA /* 464. 我能赢吗.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449001283951AD0024CCBA /* 464. 我能赢吗.swift */; };
+		AF44907A283B23CC0024CCBA /* 675. 为高尔夫比赛砍树.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF449079283B23CC0024CCBA /* 675. 为高尔夫比赛砍树.swift */; };
 		AF58595827F7531000CB4F64 /* 954. 二倍数对数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF58595727F7531000CB4F64 /* 954. 二倍数对数组.swift */; };
 		AF787703282608E600EC3890 /* 433. 最小基因变化.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF787702282608E600EC3890 /* 433. 最小基因变化.swift */; };
 		AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */; };
@@ -226,6 +230,10 @@
 		AF448FF728375BC50024CCBA /* 108. 将有序数组转换为二叉搜索树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "108. 将有序数组转换为二叉搜索树.swift"; sourceTree = "<group>"; };
 		AF448FF92837B8900024CCBA /* 1373. 二叉搜索子树的最大键值和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1373. 二叉搜索子树的最大键值和.swift"; sourceTree = "<group>"; };
 		AF448FFB283879D00024CCBA /* 961. 在长度 2N 的数组中找出重复 N 次的元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "961. 在长度 2N 的数组中找出重复 N 次的元素.swift"; sourceTree = "<group>"; };
+		AF448FFD2838B4CB0024CCBA /* 1443. 收集树上所有苹果的最少时间.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1443. 收集树上所有苹果的最少时间.swift"; sourceTree = "<group>"; };
+		AF448FFF283905BE0024CCBA /* 1457. 二叉树中的伪回文路径.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1457. 二叉树中的伪回文路径.swift"; sourceTree = "<group>"; };
+		AF449001283951AD0024CCBA /* 464. 我能赢吗.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "464. 我能赢吗.swift"; sourceTree = "<group>"; };
+		AF449079283B23CC0024CCBA /* 675. 为高尔夫比赛砍树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "675. 为高尔夫比赛砍树.swift"; sourceTree = "<group>"; };
 		AF58595727F7531000CB4F64 /* 954. 二倍数对数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "954. 二倍数对数组.swift"; sourceTree = "<group>"; };
 		AF787702282608E600EC3890 /* 433. 最小基因变化.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "433. 最小基因变化.swift"; sourceTree = "<group>"; };
 		AF7877182826B64200EC3890 /* 695. 岛屿的最大面积.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "695. 岛屿的最大面积.swift"; sourceTree = "<group>"; };
@@ -584,6 +592,10 @@
 				AF448FF728375BC50024CCBA /* 108. 将有序数组转换为二叉搜索树.swift */,
 				AF448FF92837B8900024CCBA /* 1373. 二叉搜索子树的最大键值和.swift */,
 				AF448FFB283879D00024CCBA /* 961. 在长度 2N 的数组中找出重复 N 次的元素.swift */,
+				AF448FFD2838B4CB0024CCBA /* 1443. 收集树上所有苹果的最少时间.swift */,
+				AF448FFF283905BE0024CCBA /* 1457. 二叉树中的伪回文路径.swift */,
+				AF449001283951AD0024CCBA /* 464. 我能赢吗.swift */,
+				AF449079283B23CC0024CCBA /* 675. 为高尔夫比赛砍树.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -762,6 +774,7 @@
 				AF9E15682822677D0091268D /* ListNode.swift in Sources */,
 				AF448FE62833E8480024CCBA /* 1110. 删点成林.swift in Sources */,
 				AF9E148C2815969F0091268D /* 687. 最长同值路径.swift in Sources */,
+				AF448FFE2838B4CB0024CCBA /* 1443. 收集树上所有苹果的最少时间.swift in Sources */,
 				AF448F53282EBC1B0024CCBA /* 653. 两数之和 IV - 输入 BST.swift in Sources */,
 				AF9E1517281FD1EC0091268D /* 88. 合并两个有序数组.swift in Sources */,
 				AF58595827F7531000CB4F64 /* 954. 二倍数对数组.swift in Sources */,
@@ -790,6 +803,7 @@
 				AFBF36622809B04600ED4EF8 /* 385. 迷你语法分析器.swift in Sources */,
 				AF448FF628374FE20024CCBA /* 1339. 分裂二叉树的最大乘积.swift in Sources */,
 				AF9E1572282366AF0091268D /* 713. 乘积小于 K 的子数组.swift in Sources */,
+				AF449002283951AD0024CCBA /* 464. 我能赢吗.swift in Sources */,
 				AF448F57282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift in Sources */,
 				AF9E151C28203BAA0091268D /* 557. 反转字符串中的单词 III.swift in Sources */,
 				AF448F6E2830A2AB0024CCBA /* 812. 最大三角形面积.swift in Sources */,
@@ -820,6 +834,7 @@
 				AF9E15602821734F0091268D /* 450. 删除二叉搜索树中的节点.swift in Sources */,
 				AF448F4D282E7DE20024CCBA /* 700. 二叉搜索树中的搜索.swift in Sources */,
 				AF93820B282D39D50005C643 /* 104. 二叉树的最大深度.swift in Sources */,
+				AF449000283905BE0024CCBA /* 1457. 二叉树中的伪回文路径.swift in Sources */,
 				AFB664E228119518003DE67C /* 297. 二叉树的序列化与反序列化.swift in Sources */,
 				AFBF3682280D53B400ED4EF8 /* 671. 二叉树中第二小的节点.swift in Sources */,
 				AFBF366A280BCF7600ED4EF8 /* 655. 输出二叉树.swift in Sources */,
@@ -831,6 +846,7 @@
 				AFBF3684280D929F00ED4EF8 /* 654. 最大二叉树.swift in Sources */,
 				AFBF349427FA993A00ED4EF8 /* 307. 区域和检索 - 数组可修改.swift in Sources */,
 				AF938211282D3CF20005C643 /* 112. 路径总和.swift in Sources */,
+				AF44907A283B23CC0024CCBA /* 675. 为高尔夫比赛砍树.swift in Sources */,
 				AFBF3670280BFDFA00ED4EF8 /* 606. 根据二叉树创建字符串.swift in Sources */,
 				AFBF350E28008DC700ED4EF8 /* 213. 打家劫舍 II.swift in Sources */,
 				AFBF349927FBE4C200ED4EF8 /* 762. 二进制表示中质数个计算置位.swift in Sources */,
