@@ -15,23 +15,23 @@ func fallingSquares(_ positions: [[Int]]) -> [Int] {
         let begin = position[0]
         let end = position[0] + position[1]
         let height = position[1]
-        
+
         var fallHeight = 0
-        
+
         for range in ranges {
             if end <= range.begin || begin >= range.end {
                 continue
             }
-            
+
             fallHeight = max(fallHeight, range.height)
         }
-        
+
         let curHeight = fallHeight + height
         ranges.append((begin, end, curHeight))
         maxHeight = max(maxHeight, curHeight)
-        
+
         ans.append(maxHeight)
     }
-    
+
     return ans
 }
