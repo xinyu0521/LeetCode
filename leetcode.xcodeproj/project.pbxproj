@@ -28,6 +28,13 @@
 		AF29BEA22842F11B00C0A796 /* 468. 验证IP地址.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEA12842F11A00C0A796 /* 468. 验证IP地址.swift */; };
 		AF29BEAC2843BBC400C0A796 /* 153. 寻找旋转排序数组中的最小值.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEAB2843BBC300C0A796 /* 153. 寻找旋转排序数组中的最小值.swift */; };
 		AF29BEAE2843D57D00C0A796 /* 1022. 从根到叶的二进制数之和.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEAD2843D57D00C0A796 /* 1022. 从根到叶的二进制数之和.swift */; };
+		AF29BEB028448CAF00C0A796 /* 162. 寻找峰值.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEAF28448CAF00C0A796 /* 162. 寻找峰值.swift */; };
+		AF29BEB22844929C00C0A796 /* 82. 删除排序链表中的重复元素 II.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEB12844929C00C0A796 /* 82. 删除排序链表中的重复元素 II.swift */; };
+		AF29BEEA2847099A00C0A796 /* 473. 火柴拼正方形.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEE92847099A00C0A796 /* 473. 火柴拼正方形.swift */; };
+		AF29BEEC2848FA3D00C0A796 /* 844. 比较含退格的字符串.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEEB2848FA3D00C0A796 /* 844. 比较含退格的字符串.swift */; };
+		AF29BEEE284907BE00C0A796 /* 986. 区间列表的交集.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEED284907BE00C0A796 /* 986. 区间列表的交集.swift */; };
+		AF29BEF02849AB1900C0A796 /* 829. 连续整数求和.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEEF2849AB1900C0A796 /* 829. 连续整数求和.swift */; };
+		AF29BEF2284A6BB800C0A796 /* 929. 独特的电子邮件地址.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF29BEF1284A6BB700C0A796 /* 929. 独特的电子邮件地址.swift */; };
 		AF4371EF282C1DFF00E05BB1 /* 944. 删列造序.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4371EE282C1DFF00E05BB1 /* 944. 删列造序.swift */; };
 		AF448F22282E3A310024CCBA /* 190. 颠倒二进制位 .swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F21282E3A310024CCBA /* 190. 颠倒二进制位 .swift */; };
 		AF448F24282E420C0024CCBA /* 136. 只出现一次的数字.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF448F23282E420C0024CCBA /* 136. 只出现一次的数字.swift */; };
@@ -242,6 +249,13 @@
 		AF29BEA12842F11A00C0A796 /* 468. 验证IP地址.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "468. 验证IP地址.swift"; sourceTree = "<group>"; };
 		AF29BEAB2843BBC300C0A796 /* 153. 寻找旋转排序数组中的最小值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "153. 寻找旋转排序数组中的最小值.swift"; sourceTree = "<group>"; };
 		AF29BEAD2843D57D00C0A796 /* 1022. 从根到叶的二进制数之和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1022. 从根到叶的二进制数之和.swift"; sourceTree = "<group>"; };
+		AF29BEAF28448CAF00C0A796 /* 162. 寻找峰值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "162. 寻找峰值.swift"; sourceTree = "<group>"; };
+		AF29BEB12844929C00C0A796 /* 82. 删除排序链表中的重复元素 II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "82. 删除排序链表中的重复元素 II.swift"; sourceTree = "<group>"; };
+		AF29BEE92847099A00C0A796 /* 473. 火柴拼正方形.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "473. 火柴拼正方形.swift"; sourceTree = "<group>"; };
+		AF29BEEB2848FA3D00C0A796 /* 844. 比较含退格的字符串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "844. 比较含退格的字符串.swift"; sourceTree = "<group>"; };
+		AF29BEED284907BE00C0A796 /* 986. 区间列表的交集.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "986. 区间列表的交集.swift"; sourceTree = "<group>"; };
+		AF29BEEF2849AB1900C0A796 /* 829. 连续整数求和.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "829. 连续整数求和.swift"; sourceTree = "<group>"; };
+		AF29BEF1284A6BB700C0A796 /* 929. 独特的电子邮件地址.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "929. 独特的电子邮件地址.swift"; sourceTree = "<group>"; };
 		AF4371EE282C1DFF00E05BB1 /* 944. 删列造序.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "944. 删列造序.swift"; sourceTree = "<group>"; };
 		AF448F21282E3A310024CCBA /* 190. 颠倒二进制位 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "190. 颠倒二进制位 .swift"; sourceTree = "<group>"; };
 		AF448F23282E420C0024CCBA /* 136. 只出现一次的数字.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "136. 只出现一次的数字.swift"; sourceTree = "<group>"; };
@@ -652,6 +666,13 @@
 				AF29BEA12842F11A00C0A796 /* 468. 验证IP地址.swift */,
 				AF29BEAB2843BBC300C0A796 /* 153. 寻找旋转排序数组中的最小值.swift */,
 				AF29BEAD2843D57D00C0A796 /* 1022. 从根到叶的二进制数之和.swift */,
+				AF29BEAF28448CAF00C0A796 /* 162. 寻找峰值.swift */,
+				AF29BEB12844929C00C0A796 /* 82. 删除排序链表中的重复元素 II.swift */,
+				AF29BEE92847099A00C0A796 /* 473. 火柴拼正方形.swift */,
+				AF29BEEB2848FA3D00C0A796 /* 844. 比较含退格的字符串.swift */,
+				AF29BEED284907BE00C0A796 /* 986. 区间列表的交集.swift */,
+				AF29BEEF2849AB1900C0A796 /* 829. 连续整数求和.swift */,
+				AF29BEF1284A6BB700C0A796 /* 929. 独特的电子邮件地址.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -857,6 +878,7 @@
 				AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */,
 				AFBF35422804792300ED4EF8 /* 1567. 乘积为正数的最长子数组长度.swift in Sources */,
 				AF448FF2283550D40024CCBA /* 462. 最少移动次数使数组元素相等 II.swift in Sources */,
+				AF29BEB028448CAF00C0A796 /* 162. 寻找峰值.swift in Sources */,
 				AF29BE602841179E00C0A796 /* 662. 二叉树最大宽度.swift in Sources */,
 				AF9E14B5281ACAED0091268D /* 98. 验证二叉搜索树.swift in Sources */,
 				AFBF3676280C364B00ED4EF8 /* 110. 平衡二叉树.swift in Sources */,
@@ -873,6 +895,7 @@
 				AF9E15682822677D0091268D /* ListNode.swift in Sources */,
 				AF448FE62833E8480024CCBA /* 1110. 删点成林.swift in Sources */,
 				AF9E148C2815969F0091268D /* 687. 最长同值路径.swift in Sources */,
+				AF29BEF2284A6BB800C0A796 /* 929. 独特的电子邮件地址.swift in Sources */,
 				AF448FFE2838B4CB0024CCBA /* 1443. 收集树上所有苹果的最少时间.swift in Sources */,
 				AF448F53282EBC1B0024CCBA /* 653. 两数之和 IV - 输入 BST.swift in Sources */,
 				AF9E1517281FD1EC0091268D /* 88. 合并两个有序数组.swift in Sources */,
@@ -881,6 +904,7 @@
 				AFBF3672280C2C8500ED4EF8 /* 113. 路径总和 II.swift in Sources */,
 				AF93820F282D3BCF0005C643 /* 226. 翻转二叉树.swift in Sources */,
 				AFBF349B27FC64DC00ED4EF8 /* 413. 等差数列划分 .swift in Sources */,
+				AF29BEF02849AB1900C0A796 /* 829. 连续整数求和.swift in Sources */,
 				AF7877D0282BED4100EC3890 /* 120. 三角形最小路径和.swift in Sources */,
 				AF448F702830A7AF0024CCBA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift in Sources */,
 				AFBF36E9280FFE8700ED4EF8 /* 388. 文件的最长绝对路径.swift in Sources */,
@@ -889,6 +913,7 @@
 				AF9E14AC281968F20091268D /* 715. Range 模块.swift in Sources */,
 				AFB664E42811AE4E003DE67C /* 677. 键值映射.swift in Sources */,
 				AFBF366E280BF02800ED4EF8 /* 617. 合并二叉树.swift in Sources */,
+				AF29BEEE284907BE00C0A796 /* 986. 区间列表的交集.swift in Sources */,
 				AF9E14F5281C198C0091268D /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				AF29BEAC2843BBC400C0A796 /* 153. 寻找旋转排序数组中的最小值.swift in Sources */,
 				AFBF3668280BC5A600ED4EF8 /* TreeNode.swift in Sources */,
@@ -901,7 +926,9 @@
 				AFBF35122802745B00ED4EF8 /* 804. 唯一摩尔斯密码词.swift in Sources */,
 				AF7E5FE728253DEF005D590F /* 387. 字符串中的第一个唯一字符.swift in Sources */,
 				AFBF36B7280EE5B500ED4EF8 /* 295. 数据流的中位数.swift in Sources */,
+				AF29BEB22844929C00C0A796 /* 82. 删除排序链表中的重复元素 II.swift in Sources */,
 				AF9E156228223B8C0091268D /* 1823. 找出游戏的获胜者.swift in Sources */,
+				AF29BEEA2847099A00C0A796 /* 473. 火柴拼正方形.swift in Sources */,
 				AFBF36622809B04600ED4EF8 /* 385. 迷你语法分析器.swift in Sources */,
 				AF448FF628374FE20024CCBA /* 1339. 分裂二叉树的最大乘积.swift in Sources */,
 				AF9E1572282366AF0091268D /* 713. 乘积小于 K 的子数组.swift in Sources */,
@@ -932,6 +959,7 @@
 				AF29BE622841BBAE00C0A796 /* 1021. 删除最外层的括号.swift in Sources */,
 				AFBF34EB27FF2E7500ED4EF8 /* 198. 打家劫舍.swift in Sources */,
 				AFBF367A280C6DB200ED4EF8 /* 819. 最常见的单词.swift in Sources */,
+				AF29BEEC2848FA3D00C0A796 /* 844. 比较含退格的字符串.swift in Sources */,
 				AFBF354428051CC400ED4EF8 /* 806. 写字符串需要的行数.swift in Sources */,
 				AFBF35D12806CF8100ED4EF8 /* 380. O(1) 时间插入、删除和获取随机元素.swift in Sources */,
 				AF9E15202820CBDA0091268D /* 937. 重新排列日志文件.swift in Sources */,

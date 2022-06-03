@@ -8,17 +8,16 @@
 import Foundation
 
 func sumRootToLeaf(_ root: TreeNode?) -> Int {
-    var ans = 0
-    func dfs(_ root: TreeNode?, _ pVal: Int) {
+    func dfs(_ root: TreeNode?, _ pVal: Int) -> Int {
         guard let root = root else {
-            return
-        }
-        
-        if root.right == nil, root.left == nil {
-            ans += pVal
+            return 0
         }
         
         let val = pVal << 1 + root.val
+        
+        if root.right == nil, root.left == nil {
+            return val
+        }
         
         return dfs(root.right, val) + dfs(root.left, val)
     }
