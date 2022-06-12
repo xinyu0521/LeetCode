@@ -6,5 +6,6 @@
 //
 
 import Foundation
+import Algorithms
+import Collections
 
-print(firstUniqChar("loveleetcode"))

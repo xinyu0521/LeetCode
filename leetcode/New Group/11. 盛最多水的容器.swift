@@ -19,12 +19,7 @@ func maxArea(_ height: [Int]) -> Int {
         let w = j - i
         let h = min(height[i], height[j])
         res = max(res, w * h)
-        
-        if height[i] > height[j] {
-            j -= 1
-        } else {
-            i += 1
-        }
+        height[i] > height[j] ? (j -= 1) : (i += 1)
     }
     
     return res
