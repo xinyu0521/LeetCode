@@ -7,7 +7,7 @@
 
 import Foundation
 
-public class Node {
+fileprivate class Node {
     public var val: Int
     public var left: Node?
     public var right: Node?
@@ -21,7 +21,7 @@ public class Node {
 }
 
 
-func connect(_ root: Node?) -> Node? {
+fileprivate func connect(_ root: Node?) -> Node? {
     guard let root = root else {
         return nil
     }
