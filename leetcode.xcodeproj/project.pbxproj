@@ -8,6 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		440B2744286CB5C4009BA70E /* 1175. 质数排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440B2743286CB5C4009BA70E /* 1175. 质数排列.swift */; };
+		440B2746286EA6CC009BA70E /* 241. 为运算表达式设计优先级.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440B2745286EA6CC009BA70E /* 241. 为运算表达式设计优先级.swift */; };
+		440B2748286FC893009BA70E /* 871. 最低加油次数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440B2747286FC892009BA70E /* 871. 最低加油次数.swift */; };
+		440B274A287136B4009BA70E /* 556. 下一个更大元素 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440B2749287136B4009BA70E /* 556. 下一个更大元素 III.swift */; };
+		440B274C2871B55A009BA70E /* 31. 下一个排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440B274B2871B55A009BA70E /* 31. 下一个排列.swift */; };
+		442568D92876A24100265CBC /* 648. 单词替换.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442568D82876A24100265CBC /* 648. 单词替换.swift */; };
+		442568DB2877F45700265CBC /* 1217. 玩筹码.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442568DA2877F45600265CBC /* 1217. 玩筹码.swift */; };
+		442568DD2879017D00265CBC /* 873. 最长的斐波那契子序列的长度.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442568DC2879017D00265CBC /* 873. 最长的斐波那契子序列的长度.swift */; };
+		442568DF287A798900265CBC /* 741. 摘樱桃.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442568DE287A798800265CBC /* 741. 摘樱桃.swift */; };
+		442568E1287C71AB00265CBC /* 676. 实现一个魔法字典.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442568E0287C71AA00265CBC /* 676. 实现一个魔法字典.swift */; };
+		442568E3287CFFF400265CBC /* 1252. 奇数值单元格的数目.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442568E2287CFFF400265CBC /* 1252. 奇数值单元格的数目.swift */; };
 		44292B2D286B650C00395248 /* 535. TinyURL 的加密与解密.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44292B2C286B650C00395248 /* 535. TinyURL 的加密与解密.swift */; };
 		442C7F5F284EEA350019B014 /* 875. 爱吃香蕉的珂珂.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442C7F5E284EEA350019B014 /* 875. 爱吃香蕉的珂珂.swift */; };
 		442C7F61284FB8530019B014 /* 1037. 有效的回旋镖.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442C7F60284FB8530019B014 /* 1037. 有效的回旋镖.swift */; };
@@ -17,6 +27,9 @@
 		442C7F69285577F80019B014 /* 890. 查找和替换模式.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442C7F68285577F80019B014 /* 890. 查找和替换模式.swift */; };
 		442C7F6B2856D9040019B014 /* 1051. 高度检查器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442C7F6A2856D9040019B014 /* 1051. 高度检查器.swift */; };
 		442C7F6D28582F660019B014 /* 498. 对角线遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442C7F6C28582F650019B014 /* 498. 对角线遍历.swift */; };
+		44465E3D28727DA6002B4F00 /* 1200. 最小绝对差.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44465E3C28727DA6002B4F00 /* 1200. 最小绝对差.swift */; };
+		44465E7728746482002B4F00 /* 729. 我的日程安排表 I.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44465E7628746481002B4F00 /* 729. 我的日程安排表 I.swift */; };
+		44465E79287527F8002B4F00 /* 736. Lisp 语法解析.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44465E78287527F7002B4F00 /* 736. Lisp 语法解析.swift */; };
 		449AFA94286486680015EF47 /* 30. 串联所有单词的子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449AFA93286486680015EF47 /* 30. 串联所有单词的子串.swift */; };
 		449AFA962864F61C0015EF47 /* 515. 在每个树行中找最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449AFA952864F61C0015EF47 /* 515. 在每个树行中找最大值.swift */; };
 		449AFA9F286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449AFA9E286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift */; };
@@ -256,6 +269,16 @@
 
 /* Begin PBXFileReference section */
 		440B2743286CB5C4009BA70E /* 1175. 质数排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1175. 质数排列.swift"; sourceTree = "<group>"; };
+		440B2745286EA6CC009BA70E /* 241. 为运算表达式设计优先级.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "241. 为运算表达式设计优先级.swift"; sourceTree = "<group>"; };
+		440B2747286FC892009BA70E /* 871. 最低加油次数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "871. 最低加油次数.swift"; sourceTree = "<group>"; };
+		440B2749287136B4009BA70E /* 556. 下一个更大元素 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "556. 下一个更大元素 III.swift"; sourceTree = "<group>"; };
+		440B274B2871B55A009BA70E /* 31. 下一个排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31. 下一个排列.swift"; sourceTree = "<group>"; };
+		442568D82876A24100265CBC /* 648. 单词替换.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "648. 单词替换.swift"; sourceTree = "<group>"; };
+		442568DA2877F45600265CBC /* 1217. 玩筹码.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1217. 玩筹码.swift"; sourceTree = "<group>"; };
+		442568DC2879017D00265CBC /* 873. 最长的斐波那契子序列的长度.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "873. 最长的斐波那契子序列的长度.swift"; sourceTree = "<group>"; };
+		442568DE287A798800265CBC /* 741. 摘樱桃.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "741. 摘樱桃.swift"; sourceTree = "<group>"; };
+		442568E0287C71AA00265CBC /* 676. 实现一个魔法字典.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "676. 实现一个魔法字典.swift"; sourceTree = "<group>"; };
+		442568E2287CFFF400265CBC /* 1252. 奇数值单元格的数目.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1252. 奇数值单元格的数目.swift"; sourceTree = "<group>"; };
 		44292B2C286B650C00395248 /* 535. TinyURL 的加密与解密.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "535. TinyURL 的加密与解密.swift"; sourceTree = "<group>"; };
 		442C7F5E284EEA350019B014 /* 875. 爱吃香蕉的珂珂.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "875. 爱吃香蕉的珂珂.swift"; sourceTree = "<group>"; };
 		442C7F60284FB8530019B014 /* 1037. 有效的回旋镖.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1037. 有效的回旋镖.swift"; sourceTree = "<group>"; };
@@ -265,6 +288,9 @@
 		442C7F68285577F80019B014 /* 890. 查找和替换模式.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "890. 查找和替换模式.swift"; sourceTree = "<group>"; };
 		442C7F6A2856D9040019B014 /* 1051. 高度检查器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1051. 高度检查器.swift"; sourceTree = "<group>"; };
 		442C7F6C28582F650019B014 /* 498. 对角线遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "498. 对角线遍历.swift"; sourceTree = "<group>"; };
+		44465E3C28727DA6002B4F00 /* 1200. 最小绝对差.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1200. 最小绝对差.swift"; sourceTree = "<group>"; };
+		44465E7628746481002B4F00 /* 729. 我的日程安排表 I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "729. 我的日程安排表 I.swift"; sourceTree = "<group>"; };
+		44465E78287527F7002B4F00 /* 736. Lisp 语法解析.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "736. Lisp 语法解析.swift"; sourceTree = "<group>"; };
 		449AFA93286486680015EF47 /* 30. 串联所有单词的子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. 串联所有单词的子串.swift"; sourceTree = "<group>"; };
 		449AFA952864F61C0015EF47 /* 515. 在每个树行中找最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "515. 在每个树行中找最大值.swift"; sourceTree = "<group>"; };
 		449AFA9E286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer II 091. 粉刷房子.swift"; sourceTree = "<group>"; };
@@ -554,6 +580,8 @@
 				AF9E156928226AA10091268D /* 19. 删除链表的倒数第 N 个结点.swift */,
 				AF7877D1282BF31900EC3890 /* 20. 有效的括号.swift */,
 				AF787720282771FC00EC3890 /* 21. 合并两个有序链表 .swift */,
+				449AFA93286486680015EF47 /* 30. 串联所有单词的子串.swift */,
+				440B274B2871B55A009BA70E /* 31. 下一个排列.swift */,
 				AF29BDF3283FD24F00C0A796 /* 33. 搜索旋转排序数组.swift */,
 				AF448F6F2830A7AF0024CCBA /* 34. 在排序数组中查找元素的第一个和最后一个位置.swift */,
 				AF9E1500281D495B0091268D /* 35. 搜索插入位置.swift */,
@@ -607,6 +635,7 @@
 				AF938206282D352F0005C643 /* 231. 2 的幂.swift */,
 				AF7877D3282BF4E500EC3890 /* 232. 用栈实现队列.swift */,
 				AF448F54282EBE010024CCBA /* 235. 二叉搜索树的最近公共祖先.swift */,
+				440B2745286EA6CC009BA70E /* 241. 为运算表达式设计优先级.swift */,
 				AF7E5FEA28257A48005D590F /* 242. 有效的字母异位词.swift */,
 				AF9E14FE281D469B0091268D /* 278. 第一个错误的版本.swift */,
 				AF9E1510281FC5370091268D /* 283. 移动零.swift */,
@@ -616,6 +645,7 @@
 				AFBF365D2808499600ED4EF8 /* 309. 最佳买卖股票时机含冷冻期.swift */,
 				AFBF34D027FDB61C00ED4EF8 /* 310. 最小高度树.swift */,
 				AF9E150E281EE0890091268D /* 315. 计算右侧小于当前元素的个数.swift */,
+				449AFAA6286A11C70015EF47 /* 324. 摆动排序 II.swift */,
 				AFBF36B8280F9FFE00ED4EF8 /* 332. 重新安排行程.swift */,
 				AF9E151928203B2D0091268D /* 344. 反转字符串.swift */,
 				AF9E151D2820C8450091268D /* 350. 两个数组的交集 II.swift */,
@@ -647,9 +677,17 @@
 				AF29BEF5284C77D600C0A796 /* 478. 在圆内随机生成点.swift */,
 				AF9E1563282260A80091268D /* 486. 预测赢家.swift */,
 				442C7F62285188760019B014 /* 497. 非重叠矩形中的随机点.swift */,
+				442C7F6C28582F650019B014 /* 498. 对角线遍历.swift */,
+				44FCD9B4285EF0B800F80E7D /* 508. 出现次数最多的子树元素和.swift */,
+				44FCDA042862238300F80E7D /* 513. 找树左下角的值.swift */,
+				449AFA952864F61C0015EF47 /* 515. 在每个树行中找最大值.swift */,
+				449AFAA228692FEC0015EF47 /* 522. 最长特殊序列 II.swift */,
 				AF9E14F4281C198B0091268D /* 530. 二叉搜索树的最小绝对差.swift */,
+				44FCD9A5285B87E200F80E7D /* 532. 数组中的 k-diff 数对.swift */,
+				44292B2C286B650C00395248 /* 535. TinyURL 的加密与解密.swift */,
 				AF78774E2828E36E00EC3890 /* 542. 01 矩阵.swift */,
 				AF9E148F281676840091268D /* 543. 二叉树的直径.swift */,
+				440B2749287136B4009BA70E /* 556. 下一个更大元素 III.swift */,
 				AF9E151B28203BAA0091268D /* 557. 反转字符串中的单词 III.swift */,
 				AF9E156B28226E3A0091268D /* 566. 重塑矩阵.swift */,
 				AF7E5FBB2823F15A005D590F /* 567. 字符串的排列.swift */,
@@ -674,9 +712,12 @@
 				AF448F4C282E7DE20024CCBA /* 700. 二叉搜索树中的搜索.swift */,
 				AF448F4E282E818B0024CCBA /* 701. 二叉搜索树中的插入操作.swift */,
 				AF9E14FC281D456C0091268D /* 704. 二分查找.swift */,
+				449AFAA02867EC910015EF47 /* 710. 黑名单中的随机数.swift */,
 				AF9E1571282366AF0091268D /* 713. 乘积小于 K 的子数组.swift */,
 				AFBF365B28083D0B00ED4EF8 /* 714. 买卖股票的最佳时机含手续费.swift */,
 				AF9E14AB281968F20091268D /* 715. Range 模块.swift */,
+				44FCD9A32859E89300F80E7D /* 719. 找出第 K 小的数对距离.swift */,
+				449AFAA428694D960015EF47 /* 730. 统计不同回文子序列.swift */,
 				AF9E14DF281BC2440091268D /* 732. 我的日程安排表 III.swift */,
 				AF7E5FEC28257CAC005D590F /* 733. 图像渲染.swift */,
 				AFBF350F2801A72A00ED4EF8 /* 740. 删除并获得点数.swift */,
@@ -700,6 +741,7 @@
 				AF7877282827D81300EC3890 /* 863. 二叉树中所有距离为 K 的结点.swift */,
 				AF78772A2827F89800EC3890 /* 865. 具有所有最深节点的最小子树.swift */,
 				AF9E14782814D3310091268D /* 868. 二进制间距.swift */,
+				440B2747286FC892009BA70E /* 871. 最低加油次数.swift */,
 				442C7F5E284EEA350019B014 /* 875. 爱吃香蕉的珂珂.swift */,
 				AF9E15652822675E0091268D /* 876. 链表的中间结点.swift */,
 				AF9E1495281782CD0091268D /* 883. 三维形体投影面积.swift */,
@@ -728,8 +770,13 @@
 				AF29BE612841BBAE00C0A796 /* 1021. 删除最外层的括号.swift */,
 				AF29BEAD2843D57D00C0A796 /* 1022. 从根到叶的二进制数之和.swift */,
 				442C7F60284FB8530019B014 /* 1037. 有效的回旋镖.swift */,
+				442C7F6A2856D9040019B014 /* 1051. 高度检查器.swift */,
+				44FCD9A7285C634F00F80E7D /* 1089. 复写零.swift */,
+				44FCD9F32861A0C900F80E7D /* 1108. IP 地址无效化.swift */,
 				AF448FE52833E8480024CCBA /* 1110. 删点成林.swift */,
 				AF448FE32833CBC40024CCBA /* 1145. 二叉树着色游戏.swift */,
+				440B2743286CB5C4009BA70E /* 1175. 质数排列.swift */,
+				44465E3C28727DA6002B4F00 /* 1200. 最小绝对差.swift */,
 				AF448FEF283527E40024CCBA /* 1296. 划分数组为连续数字的集合.swift */,
 				AF9E1508281E325C0091268D /* 1305. 两棵二叉搜索树中的所有元素.swift */,
 				AF448FF528374FE20024CCBA /* 1339. 分裂二叉树的最大乘积.swift */,
@@ -742,27 +789,19 @@
 				AFBF35412804792300ED4EF8 /* 1567. 乘积为正数的最长子数组长度.swift */,
 				AFBF36252807E89100ED4EF8 /* 1672. 最富有客户的资产总量.swift */,
 				AF9E156128223B8C0091268D /* 1823. 找出游戏的获胜者.swift */,
+				44FCD9B2285E1C8800F80E7D /* 剑指 Offer II 029. 排序的循环链表.swift */,
+				449AFA9E286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift */,
 				AF448F56282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift */,
 				AFB53BFE282DF5FE001F7846 /* 面试题 01.05. 一次编辑.swift */,
 				AF29BDF5283FE25300C0A796 /* 面试题 17.11. 单词距离.swift */,
-				442C7F6A2856D9040019B014 /* 1051. 高度检查器.swift */,
-				442C7F6C28582F650019B014 /* 498. 对角线遍历.swift */,
-				44FCD9A32859E89300F80E7D /* 719. 找出第 K 小的数对距离.swift */,
-				44FCD9A5285B87E200F80E7D /* 532. 数组中的 k-diff 数对.swift */,
-				44FCD9A7285C634F00F80E7D /* 1089. 复写零.swift */,
-				44FCD9B2285E1C8800F80E7D /* 剑指 Offer II 029. 排序的循环链表.swift */,
-				44FCD9B4285EF0B800F80E7D /* 508. 出现次数最多的子树元素和.swift */,
-				44FCD9F32861A0C900F80E7D /* 1108. IP 地址无效化.swift */,
-				44FCDA042862238300F80E7D /* 513. 找树左下角的值.swift */,
-				449AFA93286486680015EF47 /* 30. 串联所有单词的子串.swift */,
-				449AFA952864F61C0015EF47 /* 515. 在每个树行中找最大值.swift */,
-				449AFA9E286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift */,
-				449AFAA02867EC910015EF47 /* 710. 黑名单中的随机数.swift */,
-				449AFAA228692FEC0015EF47 /* 522. 最长特殊序列 II.swift */,
-				449AFAA428694D960015EF47 /* 730. 统计不同回文子序列.swift */,
-				449AFAA6286A11C70015EF47 /* 324. 摆动排序 II.swift */,
-				44292B2C286B650C00395248 /* 535. TinyURL 的加密与解密.swift */,
-				440B2743286CB5C4009BA70E /* 1175. 质数排列.swift */,
+				44465E7628746481002B4F00 /* 729. 我的日程安排表 I.swift */,
+				44465E78287527F7002B4F00 /* 736. Lisp 语法解析.swift */,
+				442568D82876A24100265CBC /* 648. 单词替换.swift */,
+				442568DA2877F45600265CBC /* 1217. 玩筹码.swift */,
+				442568DC2879017D00265CBC /* 873. 最长的斐波那契子序列的长度.swift */,
+				442568DE287A798800265CBC /* 741. 摘樱桃.swift */,
+				442568E0287C71AA00265CBC /* 676. 实现一个魔法字典.swift */,
+				442568E2287CFFF400265CBC /* 1252. 奇数值单元格的数目.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -892,6 +931,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				440B2746286EA6CC009BA70E /* 241. 为运算表达式设计优先级.swift in Sources */,
 				AFBF366C280BE5DD00ED4EF8 /* 637. 二叉树的层平均值.swift in Sources */,
 				AF448F22282E3A310024CCBA /* 190. 颠倒二进制位 .swift in Sources */,
 				AF448F6C282FFE4F0024CCBA /* 894. 所有可能的满二叉树.swift in Sources */,
@@ -917,6 +957,7 @@
 				44FCD9AF285DBD7F00F80E7D /* OrderedSet.swift in Sources */,
 				AF29BE012840683900C0A796 /* UnionFindWeightedQuickFind.swift in Sources */,
 				AFBF3664280AA42C00ED4EF8 /* 139. 单词拆分.swift in Sources */,
+				44465E79287527F8002B4F00 /* 736. Lisp 语法解析.swift in Sources */,
 				AF9E156E282274310091268D /* 118. 杨辉三角.swift in Sources */,
 				AF29BDF4283FD25000C0A796 /* 33. 搜索旋转排序数组.swift in Sources */,
 				AF29BEF6284C77D600C0A796 /* 478. 在圆内随机生成点.swift in Sources */,
@@ -968,7 +1009,9 @@
 				AF78775B282A984700EC3890 /* 46. 全排列.swift in Sources */,
 				AF448FF428372CA10024CCBA /* 436. 寻找右区间.swift in Sources */,
 				442C7F61284FB8530019B014 /* 1037. 有效的回旋镖.swift in Sources */,
+				440B274A287136B4009BA70E /* 556. 下一个更大元素 III.swift in Sources */,
 				AFBF349027F9BF7000ED4EF8 /* 18. 四数之和.swift in Sources */,
+				440B274C2871B55A009BA70E /* 31. 下一个排列.swift in Sources */,
 				AFBF34E927FF079500ED4EF8 /* 746. 使用最小花费爬楼梯.swift in Sources */,
 				AF448FE42833CBC40024CCBA /* 1145. 二叉树着色游戏.swift in Sources */,
 				AF9E14792814D3310091268D /* 868. 二进制间距.swift in Sources */,
@@ -981,6 +1024,7 @@
 				AF9E14B7281B83B70091268D /* 427. 建立四叉树.swift in Sources */,
 				AF7877192826B64200EC3890 /* 695. 岛屿的最大面积.swift in Sources */,
 				AFBF35422804792300ED4EF8 /* 1567. 乘积为正数的最长子数组长度.swift in Sources */,
+				442568E3287CFFF400265CBC /* 1252. 奇数值单元格的数目.swift in Sources */,
 				AF448FF2283550D40024CCBA /* 462. 最少移动次数使数组元素相等 II.swift in Sources */,
 				442C7F6D28582F660019B014 /* 498. 对角线遍历.swift in Sources */,
 				AF29BEB028448CAF00C0A796 /* 162. 寻找峰值.swift in Sources */,
@@ -1021,6 +1065,7 @@
 				AF9E14AC281968F20091268D /* 715. Range 模块.swift in Sources */,
 				AFB664E42811AE4E003DE67C /* 677. 键值映射.swift in Sources */,
 				AFBF366E280BF02800ED4EF8 /* 617. 合并二叉树.swift in Sources */,
+				440B2748286FC893009BA70E /* 871. 最低加油次数.swift in Sources */,
 				AF29BEEE284907BE00C0A796 /* 986. 区间列表的交集.swift in Sources */,
 				AF9E14F5281C198C0091268D /* 530. 二叉搜索树的最小绝对差.swift in Sources */,
 				AF29BEAC2843BBC400C0A796 /* 153. 寻找旋转排序数组中的最小值.swift in Sources */,
@@ -1042,6 +1087,7 @@
 				AF448FF628374FE20024CCBA /* 1339. 分裂二叉树的最大乘积.swift in Sources */,
 				AF9E1572282366AF0091268D /* 713. 乘积小于 K 的子数组.swift in Sources */,
 				AF449002283951AD0024CCBA /* 464. 我能赢吗.swift in Sources */,
+				442568DF287A798900265CBC /* 741. 摘樱桃.swift in Sources */,
 				AF448F57282F73C30024CCBA /* 剑指 Offer II 095. 最长公共子序列.swift in Sources */,
 				AF9E151C28203BAA0091268D /* 557. 反转字符串中的单词 III.swift in Sources */,
 				44292B2D286B650C00395248 /* 535. TinyURL 的加密与解密.swift in Sources */,
@@ -1056,6 +1102,7 @@
 				AF12EDB727F5CD7B005F88F2 /* main.swift in Sources */,
 				AF9E1513281FCD460091268D /* 167. 两数之和 II - 输入有序数组.swift in Sources */,
 				AF7877D8282BF6DE00EC3890 /* 94. 二叉树的中序遍历.swift in Sources */,
+				442568E1287C71AB00265CBC /* 676. 实现一个魔法字典.swift in Sources */,
 				AFBF34D327FE705C00ED4EF8 /* 796. 旋转字符串.swift in Sources */,
 				AF9E1496281782CD0091268D /* 883. 三维形体投影面积.swift in Sources */,
 				AF29BDF8284065B900C0A796 /* 74. 搜索二维矩阵.swift in Sources */,
@@ -1066,6 +1113,7 @@
 				AF78772D282824C600EC3890 /* 942. 增减字符串匹配.swift in Sources */,
 				AF7877572829F34200EC3890 /* 77. 组合.swift in Sources */,
 				AFBF348C27F93EC000ED4EF8 /* 744. 寻找比目标字母大的最小字母.swift in Sources */,
+				44465E3D28727DA6002B4F00 /* 1200. 最小绝对差.swift in Sources */,
 				AF9E14F7281CDE490091268D /* 908. 最小差值 I.swift in Sources */,
 				AF9E14732813D8FA0091268D /* 208. 实现 Trie (前缀树).swift in Sources */,
 				AF29BE622841BBAE00C0A796 /* 1021. 删除最外层的括号.swift in Sources */,
@@ -1089,8 +1137,11 @@
 				AFBF367E280CEDA300ED4EF8 /* 386. 字典序排数.swift in Sources */,
 				AF29BE022840683900C0A796 /* UnionFindWeightedQuickUnion.swift in Sources */,
 				AF29BE642841FCD400C0A796 /* 1530. 好叶子节点对的数量.swift in Sources */,
+				442568D92876A24100265CBC /* 648. 单词替换.swift in Sources */,
 				AFB53BFF282DF5FE001F7846 /* 面试题 01.05. 一次编辑.swift in Sources */,
+				44465E7728746482002B4F00 /* 729. 我的日程安排表 I.swift in Sources */,
 				AFBF36262807E89100ED4EF8 /* 1672. 最富有客户的资产总量.swift in Sources */,
+				442568DD2879017D00265CBC /* 873. 最长的斐波那契子序列的长度.swift in Sources */,
 				AF9E14942816C1B30091268D /* 124. 二叉树中的最大路径和.swift in Sources */,
 				AFBF3684280D929F00ED4EF8 /* 654. 最大二叉树.swift in Sources */,
 				AFBF349427FA993A00ED4EF8 /* 307. 区域和检索 - 数组可修改.swift in Sources */,
@@ -1108,6 +1159,7 @@
 				AF448FFA2837B8900024CCBA /* 1373. 二叉搜索子树的最大键值和.swift in Sources */,
 				AF9E14FB281D2FB50091268D /* 742. 二叉树最近的叶节点.swift in Sources */,
 				AF78771B2826BD0500EC3890 /* 116. 填充每个节点的下一个右侧节点指针.swift in Sources */,
+				442568DB2877F45700265CBC /* 1217. 玩筹码.swift in Sources */,
 				AF9E156A28226AA10091268D /* 19. 删除链表的倒数第 N 个结点.swift in Sources */,
 				AF9E150D281EBB580091268D /* 217. 存在重复元素.swift in Sources */,
 				AFBF348A27F886D400ED4EF8 /* 15. 三数之和.swift in Sources */,
