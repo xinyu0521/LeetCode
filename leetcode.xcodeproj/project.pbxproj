@@ -38,6 +38,7 @@
 		44465E3D28727DA6002B4F00 /* 1200. 最小绝对差.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44465E3C28727DA6002B4F00 /* 1200. 最小绝对差.swift */; };
 		44465E7728746482002B4F00 /* 729. 我的日程安排表 I.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44465E7628746481002B4F00 /* 729. 我的日程安排表 I.swift */; };
 		44465E79287527F8002B4F00 /* 736. Lisp 语法解析.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44465E78287527F7002B4F00 /* 736. Lisp 语法解析.swift */; };
+		4455812D288BE6E70055A062 /* 剑指 Offer II 115. 重建序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4455812C288BE6E70055A062 /* 剑指 Offer II 115. 重建序列.swift */; };
 		449AFA94286486680015EF47 /* 30. 串联所有单词的子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449AFA93286486680015EF47 /* 30. 串联所有单词的子串.swift */; };
 		449AFA962864F61C0015EF47 /* 515. 在每个树行中找最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449AFA952864F61C0015EF47 /* 515. 在每个树行中找最大值.swift */; };
 		449AFA9F286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449AFA9E286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift */; };
@@ -307,6 +308,7 @@
 		44465E3C28727DA6002B4F00 /* 1200. 最小绝对差.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1200. 最小绝对差.swift"; sourceTree = "<group>"; };
 		44465E7628746481002B4F00 /* 729. 我的日程安排表 I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "729. 我的日程安排表 I.swift"; sourceTree = "<group>"; };
 		44465E78287527F7002B4F00 /* 736. Lisp 语法解析.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "736. Lisp 语法解析.swift"; sourceTree = "<group>"; };
+		4455812C288BE6E70055A062 /* 剑指 Offer II 115. 重建序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer II 115. 重建序列.swift"; sourceTree = "<group>"; };
 		449AFA93286486680015EF47 /* 30. 串联所有单词的子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30. 串联所有单词的子串.swift"; sourceTree = "<group>"; };
 		449AFA952864F61C0015EF47 /* 515. 在每个树行中找最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "515. 在每个树行中找最大值.swift"; sourceTree = "<group>"; };
 		449AFA9E286746500015EF47 /* 剑指 Offer II 091. 粉刷房子.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "剑指 Offer II 091. 粉刷房子.swift"; sourceTree = "<group>"; };
@@ -826,6 +828,7 @@
 				44256959288856F400265CBC /* 1260. 二维网格迁移.swift */,
 				4425695B2888D7E700265CBC /* 814. 二叉树剪枝.swift */,
 				4425695D288AFA0C00265CBC /* 757. 设置交集大小至少为2.swift */,
+				4455812C288BE6E70055A062 /* 剑指 Offer II 115. 重建序列.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -1196,6 +1199,7 @@
 				AF9E150D281EBB580091268D /* 217. 存在重复元素.swift in Sources */,
 				AFBF348A27F886D400ED4EF8 /* 15. 三数之和.swift in Sources */,
 				AF9E147728142DD00091268D /* 690. 员工的重要性 .swift in Sources */,
+				4455812D288BE6E70055A062 /* 剑指 Offer II 115. 重建序列.swift in Sources */,
 				AF44909E283BEE430024CCBA /* 965. 单值二叉树.swift in Sources */,
 				AFBF3686280D998B00ED4EF8 /* 145. 二叉树的后序遍历.swift in Sources */,
 				AF448F24282E420C0024CCBA /* 136. 只出现一次的数字.swift in Sources */,
