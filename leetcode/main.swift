@@ -9,4 +9,4 @@ import Foundation
 import Combine
 
 print("1")
-
+print("2")
