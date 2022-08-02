@@ -31,7 +31,5 @@ func oneEditAway(_ first: String, _ second: String) -> Bool {
         return true
     }
     
-    print("123")
-    
     return false
 }

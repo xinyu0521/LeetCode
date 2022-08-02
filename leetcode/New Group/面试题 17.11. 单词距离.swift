@@ -23,8 +23,6 @@ func findClosest(_ words: [String], _ word1: String, _ word2: String) -> Int {
             ans = min(ans, abs(m - n))
         }
     }
-    
-    print("123222")
-    
+
     return ans
 }
