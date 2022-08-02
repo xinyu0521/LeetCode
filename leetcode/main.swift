@@ -8,4 +8,5 @@
 import Foundation
 import Combine
 
-print(arrayRankTransform([40,10,20,30]))
+print("1")
+
