@@ -8,34 +8,34 @@
 import Foundation
 
 func longestUnivaluePath(_ root: TreeNode?) -> Int {
+    var ans = 0
     
-    var res = 0
-    
-    func univaluePath(_ root: TreeNode?) -> Int {
-        guard let root = root else {
+    @discardableResult
+    func dfs(_ node: TreeNode?) -> Int {
+        guard let node = node else {
             return 0
         }
         
-        let l = univaluePath(root.left)
-        let r = univaluePath(root.right)
+        let l = dfs(node.left)
+        let r = dfs(node.right)
         
-        var pl = 0
-        var pr = 0
+        var ls = 0
+        var rs = 0
         
-        if let left = root.left, left.val == root.val {
-            pl = l + 1
+        if let left = node.left,
+           left.val == node.val {
+            ls = l + 1
         }
         
-        if let right = root.right, right.val == root.val {
-            pr = r + 1
+        if let right = node.right,
+           right.val == node.val {
+            rs = r + 1
         }
         
-        res = max(res, pl + pr)
-        
-        return max(pl, pr)
+        ans = max(ans, ls + rs)
+        return max(ls, rs)
     }
     
-    _ = univaluePath(root)
-    
-    return res
+    dfs(root)
+    return ans
 }

@@ -3,4 +3,150 @@
    uuid = "08AA05E2-2C1F-4ACF-BEED-28B089AA931E"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5FC5C17-592C-4361-838B-A0138564B7D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/1464. &#x6570;&#x7ec4;&#x4e2d;&#x4e24;&#x5143;&#x7d20;&#x7684;&#x6700;&#x5927;&#x4e58;&#x79ef;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "maxProduct2(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "013317F2-08BA-45FC-A337-E160E6FBB10E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/1464. &#x6570;&#x7ec4;&#x4e2d;&#x4e24;&#x5143;&#x7d20;&#x7684;&#x6700;&#x5927;&#x4e58;&#x79ef;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "maxProduct2(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "430EDD5A-0224-47AE-B0E7-EBCD896AE857"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/1475. &#x5546;&#x54c1;&#x6298;&#x6263;&#x540e;&#x7684;&#x6700;&#x7ec8;&#x4ef7;&#x683c;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "finalPrices(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E32B7059-C475-4173-8783-6973C5FD78DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/857. &#x96c7;&#x4f63; K &#x540d;&#x5de5;&#x4eba;&#x7684;&#x6700;&#x4f4e;&#x6210;&#x672c;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "mincostToHireWorkers(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6307426-BD12-4A4B-A6EB-850CF16FEBBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/857. &#x96c7;&#x4f63; K &#x540d;&#x5de5;&#x4eba;&#x7684;&#x6700;&#x4f4e;&#x6210;&#x672c;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "mincostToHireWorkers(_:_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "731BED4D-D830-49A7-84E2-EAC5AB0DF614"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/1652. &#x62c6;&#x70b8;&#x5f39;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "decrypt(_:_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D05C8241-9857-4AA4-BEC0-EC021521FF91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/207. &#x8bfe;&#x7a0b;&#x8868;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "canFinish(_:_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D05C8241-9857-4AA4-BEC0-EC021521FF91 - 2420f54e94471a9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode.canFinish(Swift.Int, Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;) -&gt; Swift.Bool"
+                  moduleName = "leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lord_95/Developer/LeetCode/leetcode/New%20Group/207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "D05C8241-9857-4AA4-BEC0-EC021521FF91 - 150c022102825d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "dfs(Swift.Int) -&gt; ()"
+                  moduleName = "leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lord_95/Developer/LeetCode/leetcode/New%20Group/207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
