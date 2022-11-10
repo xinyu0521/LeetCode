@@ -148,5 +148,53 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7FEAA7B-F268-4F61-AB1E-1B2B89006C16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "leetcode/New Group/784. &#x5b57;&#x6bcd;&#x5927;&#x5c0f;&#x5199;&#x5168;&#x6392;&#x5217;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "letterCasePermutation(_:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "F7FEAA7B-F268-4F61-AB1E-1B2B89006C16 - fb2669cd60a96b75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "leetcode.letterCasePermutation(Swift.String) -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lord_95/Developer/LeetCode/leetcode/New%20Group/784.%20%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "F7FEAA7B-F268-4F61-AB1E-1B2B89006C16 - 5db48802761c66b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "backtracking(Swift.Int) -&gt; ()"
+                  moduleName = "leetcode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lord_95/Developer/LeetCode/leetcode/New%20Group/784.%20%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
