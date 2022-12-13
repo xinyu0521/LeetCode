@@ -20,3 +20,9 @@ func maxProfit2(_ prices: [Int]) -> Int {
     
     return res
 }
+
+func maxProfit2_2(_ prices: [Int]) -> Int {
+    zip(prices, prices[1 ..< prices.count]).reduce(0) {
+        max($1.0 - $1.1, 0)
+    }
+}

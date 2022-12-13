@@ -7,7 +7,7 @@
 
 import Foundation
 
-func maxProfit(_ prices: [Int], _ fee: Int) -> Int {
+func maxProfitd_dp(_ prices: [Int], _ fee: Int) -> Int {
     var dp = Array(repeating: (hold: 0, canBuy: 0), count: prices.count)
     dp[0] = (hold: -prices[0], canBuy: 0)
     var res = 0
@@ -19,4 +19,20 @@ func maxProfit(_ prices: [Int], _ fee: Int) -> Int {
     }
     
     return res
+}
+
+func maxProfitd(_ prices: [Int], _ fee: Int) -> Int {
+    var ans = 0
+    var buy = prices[0] + fee
+    
+    for price in prices.dropFirst() {
+        if price + fee < buy {
+            buy = price + fee
+        } else if price > buy {
+            ans += price - buy
+            buy = price
+        }
+    }
+    
+    return ans
 }

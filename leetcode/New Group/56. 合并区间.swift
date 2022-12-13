@@ -9,20 +9,14 @@ import Foundation
 
 func merge(_ intervals: [[Int]]) -> [[Int]] {
     let intervals = intervals.sorted { $0[0] < $1[0] }
-    var begin = intervals[0][0]
-    var end = intervals[0][1]
-    var res: [[Int]] = []
-    for interval in intervals {
-        if interval[0] > end {
-            res.append([begin, end])
-            begin = interval[0]
-            end = interval[1]
+    var res: [[Int]] = [intervals[0]]
+    for interval in intervals.dropFirst() {
+        if interval[0] > res.last![1] {
+            res.append(interval)
         } else {
-            end = max(end, interval[1])
+            res[res.count - 1][1] = max(res[res.count - 1][1], interval[1])
         }
     }
-    
-    res.append([begin, end])
     
     return res
 }

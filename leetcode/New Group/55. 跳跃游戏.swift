@@ -8,15 +8,13 @@
 import Foundation
 
 func canJump(_ nums: [Int]) -> Bool {
-    var dp = Array(repeating: false, count: nums.count)
-    dp[0] = true
-    for i in 0 ..< nums.count {
-        if dp[i] == false { continue }
-        for j in 0 ... nums[i] {
-            if j + i >= nums.count { return true}
-            dp[j + i] = true
-        }
+    var i = 0
+    var l = nums[0]
+    
+    while i <= l, l < nums.count - 1 {
+        l = max(l, i + nums[i])
+        i += 1
     }
     
-    return dp[nums.count - 1]
+    return l >= nums.count - 1
 }

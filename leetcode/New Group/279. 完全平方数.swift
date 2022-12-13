@@ -8,15 +8,16 @@
 import Foundation
 
 func numSquares(_ n: Int) -> Int {
-    var dp = Array(repeating: 0, count: n + 1)
-    for i in 1 ... n {
-        var minCount = Int.max
-        var j = 1
-        while j * j < i {
-            minCount = min(minCount, dp[i - j * j])
-            j += 1
+    var dp = Array(repeating: Int.max, count: n + 1)
+    dp[0] = 0
+    
+    for j in 1 ..< dp.count {
+        var i = 1
+        while i * i <= j {
+            dp[j] = min(dp[j], dp[j - i * i] + 1)
+            i += 1
         }
-        dp[i] = minCount + 1
     }
-    return dp[n]
+    
+    return dp.last!
 }
