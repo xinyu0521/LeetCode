@@ -7,4 +7,4 @@
 
 import Foundation
 
-beautySum("aabcb")
+minimumLength("ca")
