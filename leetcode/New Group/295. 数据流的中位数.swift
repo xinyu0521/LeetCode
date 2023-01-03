@@ -9,8 +9,8 @@ import Foundation
 
 class MedianFinder {
     
-    var smallerHeap = Heap<Int>(sort: >, elements: [])
-    var largerHeap = Heap<Int>(sort: <, elements: [])
+    var smallerHeap = Heap<Int>(elements: [], sort: >)
+    var largerHeap = Heap<Int>(elements: [], sort: <)
 
     init() {
         

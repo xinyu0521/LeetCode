@@ -10,7 +10,7 @@ import Foundation
 struct Heap<Element: Equatable> {
     var elements: [Element] = []
     let sort: (Element, Element) -> Bool
-    init(sort: @escaping (Element, Element) -> Bool, elements: [Element]) {
+    init(elements: [Element], sort: @escaping (Element, Element) -> Bool) {
         self.sort = sort
         self.elements = elements
         
@@ -129,7 +129,7 @@ extension Heap {
 }
 
 func getNthSmallestElement(n: Int, elements: [Int]) -> Int? {
-    var heap = Heap(sort: <, elements: elements)
+    var heap = Heap(elements: elements, sort: <)
     var current = 1
     while !heap.isEmpty {
         let element = heap.remove()

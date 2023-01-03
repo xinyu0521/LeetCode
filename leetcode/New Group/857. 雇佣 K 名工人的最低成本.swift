@@ -14,7 +14,7 @@ func mincostToHireWorkers(_ quality: [Int], _ wage: [Int], _ k: Int) -> Double {
     
     var res: Double = 1e9
     var totalq: Double = 0.0
-    var pq = Heap<Int>(sort: { $0 > $1 }, elements: [])
+    var pq = Heap<Int>(elements: [], sort: { $0 > $1 })
     
     for i in 0 ..< k - 1 {
         totalq += Double(quality[h[i]])

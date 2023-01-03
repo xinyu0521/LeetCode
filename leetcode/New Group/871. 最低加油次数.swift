@@ -13,7 +13,7 @@ func minRefuelStops(_ target: Int, _ startFuel: Int, _ stations: [[Int]]) -> Int
     var i = 0
     let n = stations.count
     var res = 0
-    var heap = Heap<Int>(sort: >, elements: [])
+    var heap = Heap<Int>(elements: [], sort: >)
     
     while fuel + curLocation < target {
         var newLocation = curLocation
