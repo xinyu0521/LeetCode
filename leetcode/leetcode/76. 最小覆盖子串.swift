@@ -46,7 +46,7 @@ func minWindow(_ s: String, _ t: String) -> String {
         }
         
         j += 1
-    }
+    } 
     
     return ans.1 == Int.max ? "" : String(chars[ans.0...ans.1])
 }
