@@ -18,6 +18,7 @@ struct Queue<E> {
     mutating func dequeue() -> E? {
         if left.isEmpty {
             left = right.reversed()
+            right.removeAll()
         }
         return left.popLast()
     }
